@@ -7,11 +7,18 @@ It might happen that an npm package you want to use has some bugs. Should you ju
 
 <!--more-->
 
+<figure>
+  <img src="{{ "/assets/images/1-collaboration.jpg" | absolute_url }}" alt="collaboration">
+  <figcaption>
+    by <a href="https://unsplash.com/photos/a2VqhP3d4Vg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">rawpixel</a> 
+  </figcaption>
+</figure>
+
 ## Bugs happens 🐛
 
 Recently I used a [react-ga](https://www.npmjs.com/package/react-ga) npm package to connect React based Single Page App to Google Analytics services.
 
-To start I followed an usual procedure,including `react-ga` in `package.json` file. `npm install` went well, then on `npm start`:
+To start I followed an usual procedure, including `react-ga` in `package.json` file. `npm install` went well, then on `npm start`:
 
 ```shell
 Failed to compile.
@@ -20,7 +27,7 @@ Failed to compile.
 (87,20): A rest parameter must be of an array type.
 ```
 
-🙀 This is unusual... Clearly there is a TypeScript related bug in this package... Having a look on the mentioned `/index.d.ts` file, line 87:
+🙀 This is unusual... Clearly there is a TypeScript related bug in this package... Having a look on the mentioned `index.d.ts` file, line 87:
 
 ```typescript
 export function ga(...args: any): void;
@@ -47,7 +54,11 @@ In `package.json`, instead of version number, I pointed to the repo I just forke
 
 ```json
 {
+  ...
+
   "react-ga": "git+https://github.com/archiewald/react-ga.git#e9d592e940260017f23815bcee9703a2a4866705",
+
+  ...
 }
 ```
 

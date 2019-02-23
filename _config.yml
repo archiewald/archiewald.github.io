@@ -18,7 +18,7 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://archiewald.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://frontendtyped.com # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Frontend Typed
 description: > # this means to ignore newlines until "Language & timezone"
@@ -118,11 +118,11 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: disqus
 
   ## Disqus
   disqus:
-    shortname: # the Disqus shortname for the site
+    shortname: frontendtyped
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
