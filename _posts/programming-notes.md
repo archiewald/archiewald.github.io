@@ -1,15 +1,19 @@
 ---
-title: Sharpening the saw - Lepton a gist client
+title: How to keep programming related notes
 tags: tools
 ---
+
+Inspired by "The Pragmatic Programmer" book and "sharpening the saw" idea, I will write some posts on tools I use everyday to be a more efficient developer. Lepton gist client is a way to keep your notes organized.
+
+<!--more-->
 
 ## Why?
 
 Once I found I need a systematic way to keep notes. There is something to learn each day and keeping notes:
 
 1. helps to memorize stuff important for you,
-2. with writing you go to another level of understanding, since you need to explain it to your future self (at least),
-3. if you keep it organized you will easily find answer for problem you already solved once but forgot.
+1. with writing you go to another level of understanding, since you need to explain it to your future self (at least),
+1. if you keep it organized you will easily find answer for problem you already solved once but forgot.
 
 Above combined makes you a more efficient developer 🤓
 
@@ -21,11 +25,11 @@ I keep some stuff written in notebook or post-its. With a pen and a paper you ca
 
 But you don't want to keep code snippets or shell commands in your notebook to use daily. You would rather put that stuff in more copy-paste friendly environment.
 
-I still use notebook with my calendar to sum-up challenges I met just as short tags I can recognize in few next days. Then if I find time I evaluate it into a digital note with a code snippet or so.
+I still use notebook with my calendar to sum-up challenges I met everyday. I write them as short tags I can recognize in few next days. When I find time I evaluate them into digital notes with code snippets or so.
 
 ### Google Keep
 
-Some day I started using Google Keep. It is simple, has a nice UX and integrates easily with Chrome, Gmail, Goggle Calendar. What I missed is code snippets/markdown support which is crucial to keep software related notes. The same goes with Evernote and every usual notes capturing app.
+Some day I started using Google Keep. It is a simple app, has a nice UX and integrates easily with Chrome, Gmail, Goggle Calendar. What I missed is a code snippets/markdown support which is crucial to keep software related notes. The same goes with Evernote and every usual notes capturing app.
 
 ### Github gists
 
@@ -41,7 +45,8 @@ Finally I found an open-source desktop app which meets my expectations. Lepton g
 
 - add a new one with keyboard shortcuts,
 - categorize via hashtags and snippets type,
-- search through your gists easily.
+- search through your gists easily,
+- do all above with intuitive keyboard shortcuts.
 
 Handling gists is a breeze now 🌊
 
