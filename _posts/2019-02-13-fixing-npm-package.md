@@ -1,7 +1,8 @@
 ---
-layout: article
 title: How to fix an npm package
+key: how-to-fix-npm
 tags: npm typescript
+comments: true 
 ---
 
 It might happen that an npm package you want to use has some bugs. Should you just wait for maintainers to fix them? Sure not 😉. You can eliminate the bug and host package by yourself. Then create a pull request and possibly become an open-source contributor&nbsp;💪.
