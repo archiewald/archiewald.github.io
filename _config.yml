@@ -167,11 +167,11 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: false # false (default), "google", "custom"
+  provider: true # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id : # Google Analytics id for the site
+    tracking_id : UA-130671604-2 # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
