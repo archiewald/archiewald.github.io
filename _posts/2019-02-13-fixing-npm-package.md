@@ -1,4 +1,5 @@
 ---
+layout: article
 title: How to fix an npm package
 tags: npm typescript
 ---
