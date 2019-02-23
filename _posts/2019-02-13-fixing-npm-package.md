@@ -68,7 +68,7 @@ After re-`npm install` I could enjoy implementing this great package!
 
 ## Contribute 💪
 
-Don't be afraid to share your fix with the community! Raise [an issue](https://github.com/react-ga/react-ga/issues/342) and create [a pull request](https://github.com/react-ga/react-ga/pull/343) with your changes. Once you implemented them in your forked repo, it is so easy!
+Don't be afraid to share your fix with the community! Raise [an issue](https://github.com/react-ga/react-ga/issues/342) and create [a pull request](https://github.com/react-ga/react-ga/pull/343) with your changes. Once you implemented them in your forked repo, it is easy!
 
 <figure>
     <img src="{{ "/assets/images/1-pull-request.png" | absolute_url }}" alt="pull request">
