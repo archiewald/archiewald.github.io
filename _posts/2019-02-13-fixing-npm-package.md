@@ -11,7 +11,7 @@ It might happen that an npm package you want to use has some bugs. Should you ju
 
 Recently I used a [react-ga](https://www.npmjs.com/package/react-ga) npm package to connect React based Single Page App to Google Analytics services.
 
-To start I followed an usual procedure, `npm install` went well, then on `npm start`:
+To start I followed an usual procedure,including `react-ga` in `package.json` file. `npm install` went well, then on `npm start`:
 
 ```shell
 Failed to compile.
