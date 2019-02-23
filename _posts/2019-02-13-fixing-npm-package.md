@@ -3,6 +3,7 @@ title: How to fix an npm package
 key: how-to-fix-npm
 tags: npm typescript
 image: /assets/images/1-collaboration.jpg
+description: It might happen that an npm package you want to use has some bugs. How to update a package so it can be used in a project by you and your collaborators?
 ---
 
 It might happen that an npm package you want to use has some bugs. Should you just wait for maintainers to fix them? Sure not 😉. You can eliminate the bug and host package by yourself. Then create a pull request and possibly become an open-source contributor&nbsp;💪.
