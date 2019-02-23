@@ -3,6 +3,7 @@ title: How to fix an npm package
 key: how-to-fix-npm
 tags: npm typescript
 image: /assets/images/1-collaboration.jpg
+cover: /assets/images/1-collaboration.jpg
 description: It might happen that an npm package you want to use has some bugs. How to update a package so it can be used in a project by you and your collaborators?
 ---
 
