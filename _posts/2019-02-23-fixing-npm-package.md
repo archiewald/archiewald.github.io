@@ -51,10 +51,10 @@ Usually (if not always, not sure) package source code is served on github. What'
 
 1. I forked the package,
 2. cloned to my machine so I can edit the source code `git clone https://github.com/archiewald/react-ga.git`,
-3. fixed the bug as before,
-4. just pushed the commit to master.
+3. created a fix branch, committed the fix,
+4. pushed it to my forked repo.
 
-In `package.json`, instead of version number, I pointed to the repo I just forked and created, with commit hash to make it explicit what code I refer to:
+In `package.json`, instead of version number, I pointed to the repo I just forked and created, with fix commit hash to make it explicit what code I refer to:
 
 ```json
 {
