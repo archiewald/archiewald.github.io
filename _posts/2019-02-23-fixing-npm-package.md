@@ -45,7 +45,7 @@ export function ga(...args: any[]): void;
 
 So I saved the changes locally and tested. It worked! But you can't just rely on modifying a node module source files... You probably ignore `node_modules` files in your repo, which is a good common practice. Any time you (or your colleague) reinstall the package it will be downloaded again from original source.
 
-## Fork and use 🍴
+## Fork and fix 🍴
 
 Usually (if not always, not sure) package source code is served on github. What's more, you can point a github repository in `package.json` to download a package from there. Can you see where it goes 😉?
 
