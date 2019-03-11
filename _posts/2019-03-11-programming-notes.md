@@ -52,7 +52,7 @@ But it lacks good UX. You can't categorize them, can't search through them quick
 
 ## Final choice - Lepton gist client!
 
-Finally, I found an open-source desktop app which meets my expectations. Lepton gist client synchronizes with your GitHub account and lets you handle your snippets more efficient:
+Finally, I found an open-source desktop app which meets my expectations. [Lepton gist client](http://hackjutsu.com/Lepton/) synchronizes with your GitHub account and lets you handle your snippets more efficient:
 
 - add a new one with keyboard shortcuts,
 - categorize via hashtags and snippets type,
