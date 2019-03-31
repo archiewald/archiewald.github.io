@@ -1,5 +1,5 @@
 ---
-title: Introduction to React with TypeScript
+title: React with TypeScript introduction tutorial. Creating a to-do app!
 key: react-ts-1
 tags: react typescript
 image: 
