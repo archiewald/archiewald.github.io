@@ -128,11 +128,11 @@ An interesting one is `strict` which is provided by default in CRA configuration
 > Enable all strict type checking options. 
 > Enabling --strict enables --noImplicitAny, --noImplicitThis, --alwaysStrict, --strictBindCallApply, --strictNullChecks, --strictFunctionTypes and --strictPropertyInitialization.
 
-Strict mode enables you to use all the power of TypeScript and not neglecting all the type checks possibilities. This will have implications in our code but let's talk about it later. You might not turn the `strict` mode if you transfer your JavaScript app to TypeScript but for a start it is definitely recommended.
+Strict mode enables you to use the power of TypeScript and not neglecting type checks possibilities. You might not turn the `strict` mode if you transfer your JavaScript app to TypeScript but for a start it is definitely recommended.
 
 ## Coding an app
 
-Let's clear the app on the beginning, delete `App.css` and leave only dummy skeleton in `App.tsx`
+Let's clear the app on the beginning, delete `App.css` and leave only a dummy skeleton in `App.tsx`
 
 ```tsx
 import React, { Component } from "react";
@@ -150,7 +150,20 @@ class App extends Component {
 export default App;
 ```
 
-So far it looks identical to a JS React component. Let's create a first component in `NewTaskForm.tsx`
+So far it looks identical to a JS React component. Next thing we might consider is what data will our app keep. The answer is simple: some tasks. We will define a model of a task in a separate folder which is a good practice. Define an interface in `src/models/task.ts`;
+
+```tsx
+export interface Task {
+  id: number;
+  name: string;
+}
+```
+
+You might see people adding an `I` prefix to annotate that this is an interface (like `ITask` here), mostly coming from Java or C# background. I wouldn't consider it a good practice. I didn't see any case ever in my TypeScript code to use it and certainly we are good with just `Task` here.
+
+### Creating a task
+
+Let's create our first component in `components/NewTaskForm.tsx`
 
 ```tsx
 import React, { FunctionComponent } from "react";
@@ -176,8 +189,175 @@ export const NewTaskForm: FunctionComponent<Props> = ({
 
 Let me explain few parts there:
 
-You need to annotate a type to `NewTaskForm` component, which is `FunctionComponent` imported from `react` . Those funny `<>` brackets indicates that this is a [generic](https://www.typescriptlang.org/docs/handbook/generics.html) interface. Thanks to is you can get type checking inside of the component. You are supposed to put your `Props` interface, which describes what properties this component gets from the parent one.
+You need to annotate a type to `NewTaskForm` component, which is `FunctionComponent` imported from `react` . The funny `<>` brackets indicates that this is a [generic](https://www.typescriptlang.org/docs/handbook/generics.html) interface. Thanks to this you can get type checking inside of the component in your TSX code. You are supposed to put your `Props` interface, which describes what properties this component gets from the parent one.
 
-Let's move to the `Props` interface, looking bit cryptic with these callbacks. So `onChange` property expects to get a callback function with one `event` argument. If you ever dealt with forms in React you probably know this one well. We will use data from `event` object in parent component, so we need to annotate the type. It's not that hard as you might think to figure out!
+`Props` interface looks bit cryptic with these callbacks. `onChange` property expects to get a callback function with one `event` argument. If you ever dealt with forms in React you probably know this one well. We will use data from `event` object in parent component, so we need to annotate the type. It's not that hard as you might think to figure out!
 
-Just move your mouse on 
+Just move your mouse over the form prop and your IDE should help you to find out what property type is expected. We pass a callback to form instead of button to get an action on both clicking the button end hitting enter after typing.
+
+<figure>
+  <img src="{{ "/assets/images/3-callback.png" | absolute_url }}" alt="react callback">
+  <figcaption>
+    VS Code + TypeScript being helpful with callback types
+  </figcaption>
+</figure>
+
+Anyway, if annotating types is somehow blocking you or is not possible at the moment you can always get away with:
+
+```tsx
+// TODO: annotate event types properly
+interface Props {
+  onChange: (event: any) => void;
+  onAdd: (event: any) => void;
+  task: Task;
+}
+```
+
+### Bringing to life
+
+We will use React State to handle tasks changes so we need to annotate a type to it as well. In `src/App.tsx`:
+
+```tsx
+interface State {
+  newTask: Task;
+  tasks: Task[];
+}
+
+class App extends Component<{}, State> {
+  state = {
+    newTask: {
+      id: 1,
+      name: ""
+    },
+    tasks: []
+  };
+
+  render() {
+    return (
+      <div>
+        <h2>Hello React TS!</h2>
+        <NewTaskForm
+          task={this.state.newTask}
+          onAdd={this.addTask}
+          onChange={this.handleTaskChange}
+        />
+      </div>
+    );
+  }
+}
+```
+
+This time we annotated `State` interface and put it to a generic `Component` interface as a second argument. The first one is `Props` again, since `App` component doesn't have any, we put an empty object.
+
+Since we don't need to perform any tasks in the class constructor we are ok to use a class property `state` to define it. Just look how TypeScript is making sure we declare it properly, say we forgot to initialize `tasks` with an empty array:
+
+<figure>
+  <img src="{{ "/assets/images/3-react-state.png" | absolute_url }}" alt="react state">
+  <figcaption>
+    TypeScript helping us with initializing state
+  </figcaption>
+</figure>
+
+Cool stuff! 
+
+Lets add some methods to make `NewTaskForm` component work and finally render something:
+
+```tsx
+private addTask = (event: React.FormEvent<HTMLFormElement>) => {
+  event.preventDefault();
+
+  this.setState(previousState => ({
+    newTask: {
+      id: previousState.newTask.id + 1,
+      name: ""
+    },
+    tasks: [...previousState.tasks, previousState.newTask]
+  }));
+};
+
+private handleTaskChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+  this.setState({
+    newTask: {
+      ...this.state.newTask,
+      name: event.target.value
+    }
+  });
+};
+```
+
+We mark them `private` since this is how we annotate methods which shouldn't be accessed outside of the class. `state` property doesn't have such prefix, so it's public - this is a default behavior you can read more about [here](https://www.typescriptlang.org/docs/handbook/classes.html). Try to mark it as `private`, TypeScript won't let you!
+
+If you write them by yourself, you will see how helpful TypeScript is with autocompletion. If we would annotate `event` as `any`, we wouldn't get any help with it, just with React `setState` method.
+
+You should see a simple form where you can name a task and add it, since we do not render `this.state.tasks` anywhere you will not see them.
+
+### Render tasks and delete
+
+To complete our simple app let's add a method to delete task.
+
+```tsx
+private deleteTask = (taskToDelete: Task) => {
+  this.setState(previousState => ({
+    tasks: [
+      ...previousState.tasks.filter(task => task.id !== taskToDelete.id)
+    ]
+  }));
+};
+```
+
+Then a task list with an item inside:
+
+`src/components/TaskList.tsx`
+```tsx
+import React, { FunctionComponent } from "react";
+
+import { Task } from "../models/task";
+import { TaskListItem } from "./TasksListItem";
+
+interface Props {
+  tasks: Task[];
+  onDelete: (task: Task) => void;
+}
+
+export const TasksList: FunctionComponent<Props> = ({ tasks, onDelete }) => (
+  <ul>
+    {tasks.map(task => (
+      <TaskListItem task={task} onDelete={onDelete} />
+    ))}
+  </ul>
+);
+```
+
+`src/components/TaskListItem.tsx`
+```tsx
+import React, { FunctionComponent } from "react";
+
+import { Task } from "../models/task";
+
+interface Props {
+  task: Task;
+  onDelete: (task: Task) => void;
+}
+
+export const TaskListItem: FunctionComponent<Props> = ({ task, onDelete }) => {
+  const onClick = () => {
+    onDelete(task);
+  };
+
+  return (
+    <li>
+      {task.name} <button onClick={onClick}>X</button>
+    </li>
+  );
+};
+```
+
+Since I don't use any `event` item in `deleteTask` method I decided to not pass it, rather just pass the task itself. This might be handled many other ways :)
+
+## Summary
+
+So after we add the `TaskList` component we are done with creating a simple to-do-list app with React + TypeScript! I must say I am excited how Create React App with `--typescript` flag made the configuration part so simple. As you see, writing components, TSX, handling state doesn't differ and after you combine it with static typing with a superfast feedback from your IDE you make your code more bulletproof.
+
+There are many other areas worth explanation where TypeScript helps. Refactoring, handling external libraries and so on... Hopefully I will made next parts of this tutorial which will emphasise these parts.
+
+I encourage you to write the code by yourself in your IDE, see by if TypeScript helps you and play around with the app. In case of any problems - comment section is here below with me eager to help :)
