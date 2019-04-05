@@ -12,4 +12,4 @@ My name is Artur, originally automation engineer. In 2017 decided to become a fr
 
 I am Polish 🇵🇱, live and work in Warsaw. If you are interested in my professional experience here you can find me on [linkedin](https://www.linkedin.com/in/arturkozubek/).
 
-I work in an awesome company [codequest](https://codequest.com/). We help companies (mainly startups 🦄) providing them digital products - web and mobile apps. If you are a talented developer seeking for new opportunities we would love to hear from you. Check out our [careers](https://codequest.com/careers) section for more (listed positions are available on the bottom 😉)
+I work in an awesome company [codequest](https://codequest.com/). We help companies (mainly startups 🦄) providing them digital products - web and mobile apps. If you are a talented developer seeking for new opportunities we would love to hear from you. Check out our [careers](https://codequest.com/careers) section for more (listed positions are available on the bottom 😉).
