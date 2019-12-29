@@ -1,6 +1,6 @@
 ---
 title: Web development setup on Ubuntu
-key: react-ts-1
+key: set-up
 tags: tools
 image: /assets/images/4-cover.jpg
 cover: /assets/images/4-cover.jpg
