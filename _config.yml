@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://www.kozubek.dev # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Frontend Typed
+title   : kozubek.dev
 description: > # this means to ignore newlines until "Language & timezone"
-  Blog about Frontend with some TypeScript flavour ✨
+  Blog about web development
 
 
 ## => Language and Timezone
@@ -123,7 +123,7 @@ comments:
   ## Disqus
   disqus:
     shortname: frontendtyped
-
+frontend
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
