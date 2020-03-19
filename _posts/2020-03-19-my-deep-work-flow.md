@@ -22,16 +22,15 @@ TLDR: pomodoro 🍅 timer + todo-list + healthy habits reminder + reports to tra
 
 ## Struggling to stay focused
 
-Looking back in the past I reckon myself as a kid who was hard to distract from a cognitive task I challenged. If there was a piece of work to be made and I enjoyed it - like preparation for a math competition, physics test - it was relatively easy for me to stay focused for a few hours. That stuff was quite comparable to my current day to day work. Yet I feel now it is much harder for me to keep myself undistracted. Had anything changed since that time?
+Looking back in the past I reckon myself as a kid who was hard to distract from a cognitive task. If there was a piece of work to be made and I enjoyed it - like preparation for a math competition, physics test - it was relatively easy for me to stay focused for a few hours. That stuff was quite comparable to my current day to day work. Yet I feel now it is much harder for me to keep myself undistracted. Had anything changed since that time?
 
 Certainly it did. To start with, I work on a computer. All day long. I don't think this will ever change - maybe the form of what a personal computer itself is, but I am pretty sure I will be around creating/handling digital products - like many of us.
 
 And as much as I love it and feel this is a right environment for me, being able to stay focused on an assigned task becomes much more challenging. Digital services I daily use are craving for my attention all the time. With the content, with the way they look, with the User Experience they offer. There are top paid engineers and marketers who have a clear goal - make me stay on their portals as long as it is possible and bring me back when I leave.
 
-
 ## Deep work as a valuable skill
 
-Another interesting inside I had from a book [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work) by Cal Newport. What he says is makes much sense with my experience - staying focused on a task gets harder so learning it gives you a competitive advantage.
+Another interesting perspective I got from a book [Deep Work](https://www.goodreads.com/book/show/25744928-deep-work) by Cal Newport. What he says makes much sense with my experience - staying focused on a task gets harder so learning it gives you a competitive advantage.
 
 > One of the most valuable skills in our economy is becoming increasingly rare. If you master this skill, you'll achieve extraordinary results.<br><br>
 > Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way.
