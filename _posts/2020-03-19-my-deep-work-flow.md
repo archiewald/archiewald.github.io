@@ -106,6 +106,8 @@ Here it is, [Yet Another Pomodoro App (CLICK ME)](https://www.kozubek.dev/yapa-f
   </figcaption>
 </figure>
 
+[Code repository](https://github.com/archiewald/yapa-frontend)
+
 ## What next
 
 I am about to add next features to [Yet Another Pomodoro App](https://www.kozubek.dev/yapa-frontend/) (and think about some proper name, though YAPA acronym sounds tempting). Would love to get some feedback about the idea. Do you find such problems in your workflow? Do you use any tools in this area that I might check for reference? Would you use YAPA when it's finished? Let me know guys!
