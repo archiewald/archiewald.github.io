@@ -96,7 +96,7 @@ So, I am about to make such. I am excited to use [Progressive Web App](https://y
 
 It is far from being finished but is already useful enough for me to use it - basic pomodoro timer with desktop notification.
 
-Here it is, [Yet Another Pomodoro App (CLICK ME)](https://www.kozubek.dev/yapa-frontend/). It is super simple and ugly. As long as you open it in Google Chrome on any system, you should be able to install it as a stand-alone, offline first app. It is a website but you don't need an internet connection to use it after you enter it! This is probably the future of how apps, both desktop and mobile, will be distributed.
+Here it is, ~~[Yet Another Pomodoro App (CLICK ME)](https://www.kozubek.dev/yapa-frontend/)~~ (Yapa is out! [Find more](https://www.yapa.kozubek.dev)). It is super simple and ugly. As long as you open it in Google Chrome on any system, you should be able to install it as a stand-alone, offline first app. It is a website but you don't need an internet connection to use it after you enter it! This is probably the future of how apps, both desktop and mobile, will be distributed.
 
 <figure>
   <img src="{{ "/assets/images/5-yapa.png" | absolute_url }}" alt="yet another pomodoro app">
@@ -109,4 +109,4 @@ Here it is, [Yet Another Pomodoro App (CLICK ME)](https://www.kozubek.dev/yapa-f
 
 ## What next
 
-I am about to add next features to [Yet Another Pomodoro App](https://www.kozubek.dev/yapa-frontend/) (and think about some proper name, though YAPA acronym sounds tempting). And sure, polish it to look much better ;) Would love to get some feedback about the idea. Do you find such problems in your workflow? Do you use any tools in this area that I might check for reference? Would you use YAPA when it's finished? Let me know guys!
+I am about to add next features to [Yet Another Pomodoro App](https://yapa.kozubek.dev/) (and think about some proper name, though YAPA acronym sounds tempting). And sure, polish it to look much better ;) Would love to get some feedback about the idea. Do you find such problems in your workflow? Do you use any tools in this area that I might check for reference? Would you use YAPA when it's finished? Let me know guys!
