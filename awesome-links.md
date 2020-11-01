@@ -1,4 +1,13 @@
+---
+layout: article
+titles: Awesome links
+key: page-awesome-links
+---
 
-Update: 1603734061700
-Update: 1603735350326
-Update: 1603743244468
+<!-- awesome-links-feed -->
+Hello links
+
+## Category
+
+- [Awesome link 1](https://kozubek.dev){:target="_blank"}
+- [Awesome link 2](https://kozubek.dev){:target="_blank"}
