@@ -5,7 +5,33 @@ key: page-awesome-links
 ---
 
 
+
 <!-- awesome-links-feed -->
+## js
+
+- <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">(248) What the heck is the event loop anyway? | Philip Roberts | JSConf EU - YouTube</a>
+- <a href="https://2018.stateofjs.com/" target="_blank">The State of JavaScript 2018</a>
+- <a href="https://github.com/ryanmcdermott/clean-code-javascript" target="_blank">ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript</a>
+- <a href="https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42" target="_blank">Arrayzing - The JavaScript array cheatsheet</a>
+- <a href="http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D" target="_blank">latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoK</a>
+- <a href="https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95" target="_blank">10 Interview Questions Every JavaScript Developer Should Know</a>
+- <a href="https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6" target="_blank">Top JavaScript Libraries & Tech to Learn in 2018 – JavaScript Scene – Medium</a>
+- <a href="https://frontendmasters.com/courses/functional-javascript-v2/" target="_blank">Learn Functional Programming in JavaScript (v2) with Kyle Simpson</a>
+- <a href="https://medium.com/javascript-scene/learn-javascript-b631a4af11f2" target="_blank">Learn JavaScript: – JavaScript Scene – Medium</a>
+- <a href="https://www.reddit.com/r/javascript/comments/9yl2x9/looking_for_good_tutorial_on_asyncawait/ea26f1p/" target="_blank">Looking for good tutorial on async/await programming - javascript</a>
+- <a href="https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af" target="_blank">Why React Hooks, and how did we even get here? – freeCodeCamp.org</a>
+- <a href="https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e" target="_blank">A Simple Guide to ES6 Iterators in JavaScript with Examples</a>
+- <a href="https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5" target="_blank">Understanding Generators in ES6 JavaScript with Examples</a>
+- <a href="https://docs.nestjs.com/" target="_blank">Documentation | NestJS - A progressive Node.js web framework</a>
+- <a href="http://www.objectplayground.com/" target="_blank">Object Playground: The Definitive Guide to Object-Oriented JavaScript</a>
+- <a href="https://github.com/mrdavidlaing/javascript-koans" target="_blank">mrdavidlaing/javascript-koans: Koans to learn Javascript</a>
+- <a href="https://web.dev/promises/" target="_blank">JavaScript Promises: An introduction</a>
+- <a href="https://googlechrome.github.io/samples/service-worker/custom-offline-page/" target="_blank">Service Worker Sample: Custom Offline Page Sample</a>
+- <a href="https://developers.google.com/web/tools/chrome-devtools/javascript" target="_blank">Get Started with Debugging JavaScript in Chrome DevTools</a>
+- <a href="https://dev.to/ender_minyard/28-code-tutorials-for-visual-learners-19pl?fbclid=IwAR0IBInwDoJuMR-qIGPLv6a0yDp3Z8VMnEKYX7nv2zCAHTNKvj44ZHt7wfo" target="_blank">🎉32 Code Tutorials for Visual Learners 🖼 - DEV Community 👩‍💻👨‍💻</a>
+- <a href="https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/" target="_blank">Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript | Tania Rascia</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous" target="_blank">Asynchronous JavaScript - Learn web development | MDN</a>
+
 ## backend
 
 - <a href="https://blog.arkency.com/" target="_blank">Home | Arkency Blog</a>
@@ -34,32 +60,6 @@ key: page-awesome-links
 - <a href="https://www.markdowntutorial.com/" target="_blank">Markdown Tutorial</a>
 - <a href="https://overreacted.io/what-is-javascript-made-of/" target="_blank">What Is JavaScript Made Of? — Overreacted</a>
 - <a href="https://developers.chrome.com/extensions/bookmarks#event-onCreated" target="_blank">chrome.bookmarks - Google Chrome</a>
-
-## js
-
-- <a href="https://2018.stateofjs.com/" target="_blank">The State of JavaScript 2018</a>
-- <a href="https://github.com/ryanmcdermott/clean-code-javascript" target="_blank">ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript</a>
-- <a href="https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42" target="_blank">Arrayzing - The JavaScript array cheatsheet</a>
-- <a href="http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D" target="_blank">latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoK</a>
-- <a href="https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95" target="_blank">10 Interview Questions Every JavaScript Developer Should Know</a>
-- <a href="https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6" target="_blank">Top JavaScript Libraries & Tech to Learn in 2018 – JavaScript Scene – Medium</a>
-- <a href="https://frontendmasters.com/courses/functional-javascript-v2/" target="_blank">Learn Functional Programming in JavaScript (v2) with Kyle Simpson</a>
-- <a href="https://medium.com/javascript-scene/learn-javascript-b631a4af11f2" target="_blank">Learn JavaScript: – JavaScript Scene – Medium</a>
-- <a href="https://www.reddit.com/r/javascript/comments/9yl2x9/looking_for_good_tutorial_on_asyncawait/ea26f1p/" target="_blank">Looking for good tutorial on async/await programming - javascript</a>
-- <a href="https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af" target="_blank">Why React Hooks, and how did we even get here? – freeCodeCamp.org</a>
-- <a href="https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e" target="_blank">A Simple Guide to ES6 Iterators in JavaScript with Examples</a>
-- <a href="https://codeburst.io/understanding-generators-in-es6-javascript-with-examples-6728834016d5" target="_blank">Understanding Generators in ES6 JavaScript with Examples</a>
-- <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">(248) What the heck is the event loop anyway? | Philip Roberts | JSConf EU - YouTube</a>
-- <a href="https://docs.nestjs.com/" target="_blank">Documentation | NestJS - A progressive Node.js web framework</a>
-- <a href="http://www.objectplayground.com/" target="_blank">Object Playground: The Definitive Guide to Object-Oriented JavaScript</a>
-- <a href="https://github.com/mrdavidlaing/javascript-koans" target="_blank">mrdavidlaing/javascript-koans: Koans to learn Javascript</a>
-- <a href="https://web.dev/promises/" target="_blank">JavaScript Promises: An introduction</a>
-- <a href="https://googlechrome.github.io/samples/service-worker/custom-offline-page/" target="_blank">Service Worker Sample: Custom Offline Page Sample</a>
-- <a href="https://developers.google.com/web/tools/chrome-devtools/javascript" target="_blank">Get Started with Debugging JavaScript in Chrome DevTools</a>
-- <a href="https://dev.to/ender_minyard/28-code-tutorials-for-visual-learners-19pl?fbclid=IwAR0IBInwDoJuMR-qIGPLv6a0yDp3Z8VMnEKYX7nv2zCAHTNKvj44ZHt7wfo" target="_blank">🎉32 Code Tutorials for Visual Learners 🖼 - DEV Community 👩‍💻👨‍💻</a>
-- <a href="https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/" target="_blank">Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript | Tania Rascia</a>
-- <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous" target="_blank">Asynchronous JavaScript - Learn web development | MDN</a>
-- <a href="chrome://extensions/" target="_blank">Extensions</a>
 
 ## react
 
@@ -234,6 +234,7 @@ key: page-awesome-links
 
 - <a href="https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model" target="_blank">How to stop procrastinating by using the Fogg Behavior Model</a>
 - <a href="https://mobile.twitter.com/naval/status/1261481752448524289" target="_blank">Naval na Twitterze: „In an age of mental gluttony, meditation is fasting for the mind. Before paying a therapist to listen to you, listen to yourself. Before clearing your inbox, clear your mind.” / Twitter</a>
+- <a href="https://www.calnewport.com/blog/" target="_blank">Study Hacks - Decoding Patterns of Success - Cal Newport</a>
 
 ## various
 
