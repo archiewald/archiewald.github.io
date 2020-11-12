@@ -6,17 +6,16 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## js
 
 - <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">(248) What the heck is the event loop anyway? | Philip Roberts | JSConf EU - YouTube</a>
-- <a href="https://2018.stateofjs.com/" target="_blank">The State of JavaScript 2018</a>
+- <a href="http://latentflip.com/loupe/" target="_blank">latentflip.com/loupe/</a>
+- <a href="https://stateofjs.com/" target="_blank">The State of JavaScript 2019</a>
 - <a href="https://github.com/ryanmcdermott/clean-code-javascript" target="_blank">ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript</a>
-- <a href="https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42" target="_blank">Arrayzing - The JavaScript array cheatsheet</a>
-- <a href="http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D" target="_blank">latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoK</a>
 - <a href="https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95" target="_blank">10 Interview Questions Every JavaScript Developer Should Know</a>
-- <a href="https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6" target="_blank">Top JavaScript Libraries & Tech to Learn in 2018 – JavaScript Scene – Medium</a>
-- <a href="https://frontendmasters.com/courses/functional-javascript-v2/" target="_blank">Learn Functional Programming in JavaScript (v2) with Kyle Simpson</a>
+- <a href="https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9" target="_blank">Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade | by Eric Elliott | JavaScript Scene | Medium</a>
 - <a href="https://medium.com/javascript-scene/learn-javascript-b631a4af11f2" target="_blank">Learn JavaScript: – JavaScript Scene – Medium</a>
 - <a href="https://www.reddit.com/r/javascript/comments/9yl2x9/looking_for_good_tutorial_on_asyncawait/ea26f1p/" target="_blank">Looking for good tutorial on async/await programming - javascript</a>
 - <a href="https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af" target="_blank">Why React Hooks, and how did we even get here? – freeCodeCamp.org</a>
@@ -31,22 +30,19 @@ key: page-awesome-links
 - <a href="https://dev.to/ender_minyard/28-code-tutorials-for-visual-learners-19pl?fbclid=IwAR0IBInwDoJuMR-qIGPLv6a0yDp3Z8VMnEKYX7nv2zCAHTNKvj44ZHt7wfo" target="_blank">🎉32 Code Tutorials for Visual Learners 🖼 - DEV Community 👩‍💻👨‍💻</a>
 - <a href="https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/" target="_blank">Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript | Tania Rascia</a>
 - <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous" target="_blank">Asynchronous JavaScript - Learn web development | MDN</a>
+- <a href="https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42" target="_blank">Arrayzing - The JavaScript array cheatsheet</a>
 
-## backend
+## ts
 
-- <a href="https://blog.arkency.com/" target="_blank">Home | Arkency Blog</a>
-- <a href="http://pdabrowski.com/blog/rspec-avoid-let-and-before-block" target="_blank">RSpec - you should avoid let and before blocks to use natural flow</a>
-- <a href="https://docs.docker.com/compose/rails/" target="_blank">Quickstart: Compose and Rails | Docker Documentation</a>
-- <a href="https://rubyreferences.github.io/rubyref/" target="_blank">Introduction - Ruby Reference</a>
-- <a href="http://ruby-for-beginners.rubymonstas.org/advanced/modules.html" target="_blank">Modules | Ruby for Beginners</a>
-- <a href="https://www.codewithjason.com/examples-pointless-rspec-tests/" target="_blank">Examples of pointless types of RSpec tests - Code with Jason</a>
-- <a href="https://jacopretorius.net/2014/02/all-rails-db-rake-tasks-and-what-they-do.html" target="_blank">All Rails db Rake Tasks and What They Do</a>
-- <a href="https://codahale.com/how-to-safely-store-a-password/" target="_blank">How To Safely Store A Password | codahale.com</a>
-- <a href="https://www.forbes.com/sites/carlieporterfield/2020/04/03/as-europe-locks-down-sweden-takes-a-liberal-approach-to-coronavirus/#74d687011714" target="_blank">As Europe Locks Down, Sweden Takes A Liberal Approach To Coronavirus</a>
-- <a href="https://github.com/goldbergyoni/nodebestpractices" target="_blank">goldbergyoni/nodebestpractices: The Node.js best practices list (May 2020)</a>
-- <a href="https://www.youtube.com/watch?v=_lq0ddzy94Y" target="_blank">Wojciech Przechodzeń — Jak skutecznie testować aplikacje backendowe w Node.js [PL] — WarsawJS Meetup - YouTube</a>
-- <a href="https://www.taniarascia.com/rest-api-sorting-filtering-pagination/" target="_blank">REST API: Sorting, Filtering, and Pagination | Tania Rascia</a>
-- <a href="https://sqlbolt.com/" target="_blank">SQLBolt - Learn SQL - Introduction to SQL</a>
+- <a href="https://basarat.gitbooks.io/typescript/" target="_blank">Introduction · TypeScript Deep Dive</a>
+- <a href="https://github.com/labs42io/clean-code-typescript" target="_blank">labs42io/clean-code-typescript: Clean Code concepts adapted for TypeScript</a>
+- <a href="https://users.soe.ucsc.edu/~abadi/Papers/FTS-submitted.pdf?fbclid=IwAR2arPCmPq1vRWJML9bd4LPNhQnkuRyJInfR02DC7ZUkQL1gX_8AFND4l9s" target="_blank">How TypeScript works</a>
+- <a href="https://github.com/Microsoft/TypeScript/issues/14833" target="_blank">TypeScripts Type System is Turing Complete · Issue #14833 · microsoft/TypeScript · GitHub</a>
+- <a href="https://github.com/kgtkr/typepark" target="_blank">GitHub - kgtkr/typepark</a>
+- <a href="https://github.com/microsoft/TypeScript/issues/26382" target="_blank">Math with Number Literal Type · Issue #26382 · microsoft/TypeScript · GitHub</a>
+- <a href="https://www.reddit.com/r/typescript/comments/iww4hs/a_sql_database_implemented_purely_in_typescript/" target="_blank">A SQL database implemented purely in TypeScript type annotations. - typescript</a>
+- <a href="https://www.typescriptlang.org/play?ts=4.1.0-dev.20200920#code/C4TwDgpgBAymA2BLYAeGUIA9gQHYBMBnKQ4AJ0VwHMAaKAEQ2zyJPMqoD4oBeWJnAWIADACQBvSgDMIZKABUAvhPrLJuGXICqi4VAD8UANry6AOgtwkqLXXqcAulABcxmA4DcAKFCQFAQwBrCAAZf1IUADVuPkiBFmIjJ0NcCAA3WRcoOKxBViNSCmpk7KMABidXHOYhY0KOcwtpTIAlEvkg0PDUFu5XVIyyb19oeQoAWxCIKVRqvOJ66hjs+Nq9CWa5Ft0DBQmpmZRerMjh8FGJlsQqAAtZ1dZFrl4V3ISoMXVNKG2P3bHEOMrrcen1smc-ADxlEHgt2EsXlCDqgocC7lFOJwIdAYOwwABZAD2+EQUkQshhb1qTzo+NhbCKz1i9M+mygITU+LUbIAgjtDCETtjYHiiSSybJCJSao94UyRRQCcTSeSyGhRcqJWrcYqxSqKTrEErxaqonQAORmc2cC0AYmtFqMDqg5uc1uFHWCYVIPJmsnkhOCuGl8wZDQU9Key0Nxv1ZClnq6ESsyBQUIxdHkmKxPnOUAA4hBgN7gABReAQcZ4YAAOX8VZD7yjiM6Jd9ODIAaDadb3Xb-sDeDNLpdNtH7tzfkLZf8AGMbuXK9W6w3InRBVTZYyki8kssvFBD68ZYknAejxeBVBzxfD1V6QU5Wfb0fDEYLGYQnRpyXF1XcLW9YQFE5QOI414vnex6ho+jKNGYbJtBBkGGNOpZzguFb-oBDYtHQ74WF+BZFr+WHLkBIEVI43A3rerhJMKaFkQBK4QFKcxNnKyxoRhf7kQ2KazBaNDWjmIxQHxAEAEIgKxjbUlxLy0RxtTBCAhJSFAAAS8j4iEknAB0VCsfi-hgMhL6GDpekGUZJlmUYkTPpB96bsQakabAkT5rZ-jGUBpnmbRl5eT5zGGX59lgI5zkvq4BnCqZwDzuhKXhcOG4nhJ4VQAAPlAuAAK7wPALxFSV+4Xip+SxbeV7BUerlZbBHC1SFgr5QZMlyZEoE0ZBJwPjSUAfohbWvlASUpbx6V4eyeXZUu0myRRvVUf1Lnst4k7QAAioVsggC0bHFSikaKXwU0LjNS2oExt2sQmmLbQA9AAVG9B5vRJmD1ggEBfS9Xj4BAs7wP4ZDQFIhW4LOwCIISuBQAAjgdZAgDAEAVnDhJqvI52MpwAAUqOHa48gAJSuPth3HYQp1pjmXizojpBQP4Lyk+jmPY8AuNE+aJJpGYABG-i4KkcjcP4Zizv4JUALR8wrc7w4j5oU1AL0vQr3DWSEPKwzcuMGczrPAFAIuc2jGNY6DfNkALlBgIVwB0ELGtazreu6SEACSuAu2WOX5fr9CIGkpss7gbOztbh08-b-PmrOiBkGDEBGLOmA8AARAAjAArGUucOJ72u66FADCacZ1H5tQPg8fc3bOOO+aIuu3zuC2p3IAK7ghIAO7l972m+1JXeI-XMcW9AfBc7bvPJ4Q9sI0jYDOGS8bAArGlK+cGseF7lf6wAChDflkGZmG3V4QA" target="_blank">TypeScript: Playground - An online editor for exploring TypeScript and JavaScript</a>
+- <a href="https://github.com/codemix/ts-sql" target="_blank">GitHub - codemix/ts-sql: A SQL database implemented purely in TypeScript type annotations.</a>
 
 ## frontend
 
@@ -78,26 +74,6 @@ key: page-awesome-links
 - <a href="https://epicreact.dev/myths-about-useeffect/" target="_blank">Myths about useEffect | Epic React by Kent C. Dodds</a>
 - <a href="https://www.sitepoint.com/react-interview-questions-solutions/" target="_blank">15 React Interview Questions with Solutions - SitePoint</a>
 
-## tools
-
-- <a href="https://loremipsum.io/" target="_blank">Lorem Ipsum – Generator, Origins and Meaning</a>
-- <a href="https://www.gitignore.io/" target="_blank">gitignore.io - Create Useful .gitignore Files For Your Project</a>
-- <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf" target="_blank">keyboard-shortcuts-macos.pdf</a>
-- <a href="http://www.cirosantilli.com/markdown-style-guide/#dollar-signs-in-shell-code" target="_blank">Markdown Style Guide</a>
-- <a href="https://github.com/google/guetzli" target="_blank">google/guetzli: Perceptual JPEG encoder</a>
-
-## ts
-
-- <a href="https://basarat.gitbooks.io/typescript/" target="_blank">Introduction · TypeScript Deep Dive</a>
-- <a href="https://github.com/labs42io/clean-code-typescript" target="_blank">labs42io/clean-code-typescript: Clean Code concepts adapted for TypeScript</a>
-- <a href="https://users.soe.ucsc.edu/~abadi/Papers/FTS-submitted.pdf?fbclid=IwAR2arPCmPq1vRWJML9bd4LPNhQnkuRyJInfR02DC7ZUkQL1gX_8AFND4l9s" target="_blank">How TypeScript works</a>
-- <a href="https://github.com/Microsoft/TypeScript/issues/14833" target="_blank">TypeScripts Type System is Turing Complete · Issue #14833 · microsoft/TypeScript · GitHub</a>
-- <a href="https://github.com/kgtkr/typepark" target="_blank">GitHub - kgtkr/typepark</a>
-- <a href="https://github.com/microsoft/TypeScript/issues/26382" target="_blank">Math with Number Literal Type · Issue #26382 · microsoft/TypeScript · GitHub</a>
-- <a href="https://www.reddit.com/r/typescript/comments/iww4hs/a_sql_database_implemented_purely_in_typescript/" target="_blank">A SQL database implemented purely in TypeScript type annotations. - typescript</a>
-- <a href="https://www.typescriptlang.org/play?ts=4.1.0-dev.20200920#code/C4TwDgpgBAymA2BLYAeGUIA9gQHYBMBnKQ4AJ0VwHMAaKAEQ2zyJPMqoD4oBeWJnAWIADACQBvSgDMIZKABUAvhPrLJuGXICqi4VAD8UANry6AOgtwkqLXXqcAulABcxmA4DcAKFCQFAQwBrCAAZf1IUADVuPkiBFmIjJ0NcCAA3WRcoOKxBViNSCmpk7KMABidXHOYhY0KOcwtpTIAlEvkg0PDUFu5XVIyyb19oeQoAWxCIKVRqvOJ66hjs+Nq9CWa5Ft0DBQmpmZRerMjh8FGJlsQqAAtZ1dZFrl4V3ISoMXVNKG2P3bHEOMrrcen1smc-ADxlEHgt2EsXlCDqgocC7lFOJwIdAYOwwABZAD2+EQUkQshhb1qTzo+NhbCKz1i9M+mygITU+LUbIAgjtDCETtjYHiiSSybJCJSao94UyRRQCcTSeSyGhRcqJWrcYqxSqKTrEErxaqonQAORmc2cC0AYmtFqMDqg5uc1uFHWCYVIPJmsnkhOCuGl8wZDQU9Key0Nxv1ZClnq6ESsyBQUIxdHkmKxPnOUAA4hBgN7gABReAQcZ4YAAOX8VZD7yjiM6Jd9ODIAaDadb3Xb-sDeDNLpdNtH7tzfkLZf8AGMbuXK9W6w3InRBVTZYyki8kssvFBD68ZYknAejxeBVBzxfD1V6QU5Wfb0fDEYLGYQnRpyXF1XcLW9YQFE5QOI414vnex6ho+jKNGYbJtBBkGGNOpZzguFb-oBDYtHQ74WF+BZFr+WHLkBIEVI43A3rerhJMKaFkQBK4QFKcxNnKyxoRhf7kQ2KazBaNDWjmIxQHxAEAEIgKxjbUlxLy0RxtTBCAhJSFAAAS8j4iEknAB0VCsfi-hgMhL6GDpekGUZJlmUYkTPpB96bsQakabAkT5rZ-jGUBpnmbRl5eT5zGGX59lgI5zkvq4BnCqZwDzuhKXhcOG4nhJ4VQAAPlAuAAK7wPALxFSV+4Xip+SxbeV7BUerlZbBHC1SFgr5QZMlyZEoE0ZBJwPjSUAfohbWvlASUpbx6V4eyeXZUu0myRRvVUf1Lnst4k7QAAioVsggC0bHFSikaKXwU0LjNS2oExt2sQmmLbQA9AAVG9B5vRJmD1ggEBfS9Xj4BAs7wP4ZDQFIhW4LOwCIISuBQAAjgdZAgDAEAVnDhJqvI52MpwAAUqOHa48gAJSuPth3HYQp1pjmXizojpBQP4Lyk+jmPY8AuNE+aJJpGYABG-i4KkcjcP4Zizv4JUALR8wrc7w4j5oU1AL0vQr3DWSEPKwzcuMGczrPAFAIuc2jGNY6DfNkALlBgIVwB0ELGtazreu6SEACSuAu2WOX5fr9CIGkpss7gbOztbh08-b-PmrOiBkGDEBGLOmA8AARAAjAArGUucOJ72u66FADCacZ1H5tQPg8fc3bOOO+aIuu3zuC2p3IAK7ghIAO7l972m+1JXeI-XMcW9AfBc7bvPJ4Q9sI0jYDOGS8bAArGlK+cGseF7lf6wAChDflkGZmG3V4QA" target="_blank">TypeScript: Playground - An online editor for exploring TypeScript and JavaScript</a>
-- <a href="https://github.com/codemix/ts-sql" target="_blank">GitHub - codemix/ts-sql: A SQL database implemented purely in TypeScript type annotations.</a>
-
 ## css/design
 
 - <a href="https://page-transitions.com/" target="_blank">page-transitions-travelapp</a>
@@ -118,6 +94,32 @@ key: page-awesome-links
 - <a href="https://getcssscan.com/css-box-shadow-examples" target="_blank">83 Beautiful CSS box-shadow examples - CSS Scan</a>
 - <a href="https://grumpy.website/" target="_blank">Grumpy Website</a>
 
+## backend
+
+- <a href="https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with" target="_blank">Microservices Are Something You Grow Into, Not Begin With — Nick Janetakis</a>
+- <a href="https://blog.apollographql.com/graphql-vs-rest-5d425123e34b" target="_blank">GraphQL vs. REST - Apollo GraphQL</a>
+- <a href="https://blog.arkency.com/" target="_blank">Home | Arkency Blog</a>
+- <a href="http://pdabrowski.com/blog/rspec-avoid-let-and-before-block" target="_blank">RSpec - you should avoid let and before blocks to use natural flow</a>
+- <a href="https://docs.docker.com/compose/rails/" target="_blank">Quickstart: Compose and Rails | Docker Documentation</a>
+- <a href="https://rubyreferences.github.io/rubyref/" target="_blank">Introduction - Ruby Reference</a>
+- <a href="http://ruby-for-beginners.rubymonstas.org/advanced/modules.html" target="_blank">Modules | Ruby for Beginners</a>
+- <a href="https://www.codewithjason.com/examples-pointless-rspec-tests/" target="_blank">Examples of pointless types of RSpec tests - Code with Jason</a>
+- <a href="https://jacopretorius.net/2014/02/all-rails-db-rake-tasks-and-what-they-do.html" target="_blank">All Rails db Rake Tasks and What They Do</a>
+- <a href="https://codahale.com/how-to-safely-store-a-password/" target="_blank">How To Safely Store A Password | codahale.com</a>
+- <a href="https://www.forbes.com/sites/carlieporterfield/2020/04/03/as-europe-locks-down-sweden-takes-a-liberal-approach-to-coronavirus/#74d687011714" target="_blank">As Europe Locks Down, Sweden Takes A Liberal Approach To Coronavirus</a>
+- <a href="https://github.com/goldbergyoni/nodebestpractices" target="_blank">goldbergyoni/nodebestpractices: The Node.js best practices list (May 2020)</a>
+- <a href="https://www.youtube.com/watch?v=_lq0ddzy94Y" target="_blank">Wojciech Przechodzeń — Jak skutecznie testować aplikacje backendowe w Node.js [PL] — WarsawJS Meetup - YouTube</a>
+- <a href="https://www.taniarascia.com/rest-api-sorting-filtering-pagination/" target="_blank">REST API: Sorting, Filtering, and Pagination | Tania Rascia</a>
+- <a href="https://sqlbolt.com/" target="_blank">SQLBolt - Learn SQL - Introduction to SQL</a>
+
+## tools
+
+- <a href="https://loremipsum.io/" target="_blank">Lorem Ipsum – Generator, Origins and Meaning</a>
+- <a href="https://www.gitignore.io/" target="_blank">gitignore.io - Create Useful .gitignore Files For Your Project</a>
+- <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf" target="_blank">keyboard-shortcuts-macos.pdf</a>
+- <a href="http://www.cirosantilli.com/markdown-style-guide/#dollar-signs-in-shell-code" target="_blank">Markdown Style Guide</a>
+- <a href="https://github.com/google/guetzli" target="_blank">google/guetzli: Perceptual JPEG encoder</a>
+
 ## git
 
 - <a href="https://learngitbranching.js.org/" target="_blank">Learn Git Branching</a>
@@ -131,6 +133,7 @@ key: page-awesome-links
 - <a href="https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53" target="_blank">Goodbye, Object Oriented Programming – Charles Scalfani – Medium</a>
 - <a href="https://blog.cleancoder.com/uncle-bob/2015/08/06/LetTheMagicDie.html" target="_blank">Clean Coder Blog</a>
 - <a href="https://dev.to/daolf/the-25-most-recommended-programming-books-of-all-time-5fel" target="_blank">The 25 most recommended programming books of all-time. - DEV Community 👩‍💻👨‍💻</a>
+- <a href="https://dev.to/ombharatiya/9-must-watch-movies-for-programmers-4kgp" target="_blank">9 Must Watch Movies for Programmers in 2020 🎬 - DEV</a>
 - <a href="https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898" target="_blank">The S.O.L.I.D Principles in Pictures - Backticks & Tildes - Medium</a>
 - <a href="https://www.netmeister.org/blog/ops-lessons.html" target="_blank">(A few) Ops Lessons We All Learn The Hard Way</a>
 - <a href="https://m.youtube.com/watch?v=hTNEVYcG1kc" target="_blank">Podstawy pracy w terminalu w systemie Linux - YouTube</a>
@@ -146,17 +149,14 @@ key: page-awesome-links
 ## computer science
 
 - <a href="https://github.com/alex/what-happens-when" target="_blank">alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"</a>
-- <a href="https://blog.apollographql.com/graphql-vs-rest-5d425123e34b" target="_blank">GraphQL vs. REST - Apollo GraphQL</a>
+- <a href="https://teachyourselfcs.com/" target="_blank">Teach Yourself Computer Science</a>
 - <a href="https://tls.ulfheim.net/" target="_blank">The Illustrated TLS Connection: Every Byte Explained</a>
 - <a href="https://github.com/kdeldycke/awesome-falsehood" target="_blank">kdeldycke/awesome-falsehood: Curated list of falsehoods programmers believe in.</a>
-- <a href="https://nickjanetakis.com/blog/microservices-are-something-you-grow-into-not-begin-with" target="_blank">Microservices Are Something You Grow Into, Not Begin With — Nick Janetakis</a>
 - <a href="https://github.com/danistefanovic/build-your-own-x" target="_blank">danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)</a>
 - <a href="https://github.com/mtdvio/every-programmer-should-know" target="_blank">mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know</a>
 - <a href="https://www.memorize-terminal-commands.com/training" target="_blank">Memorize Commands</a>
 - <a href="https://cloud.google.com/products/ai/ml-comic-1/?fbclid=IwAR1a0rCqC5A7sd1_XIRHofOkpQdUfS47Msxh29W62_gZM8Qgaq9lDMmd20Q" target="_blank">Learning Machine Learning  |  Cloud AI  |  Google Cloud</a>
-- <a href="http://www.hotelsbukovel.com.ua/ua/hotels-catalog/kottedzhi" target="_blank">Котеджі Буковеля - зняти будиночок в Карпатах, онлайн бронювання</a>
 - <a href="https://unix4lyfe.org/time/" target="_blank">Time</a>
-- <a href="https://teachyourselfcs.com/" target="_blank">Teach Yourself Computer Science</a>
 - <a href="http://www-inst.eecs.berkeley.edu/~cs61a/reader/notes.pdf" target="_blank">SICP lectures notes</a>
 - <a href="http://0.0.0.0:8002/coach/dashboard/add-training?runnerId=5e1f0aac887322370edd3b85" target="_blank">Edytuj treningi / ArdentCoach</a>
 - <a href="https://github.com/snori74/linuxupskillchallenge" target="_blank">GitHub - snori74/linuxupskillchallenge: Learn the skills required to sysadmin a remote Linux server from the commandline.</a>
@@ -174,14 +174,13 @@ key: page-awesome-links
 
 ## web
 
-- <a href="https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8?fbclid=IwAR2XEvkuL-35agvKFVkEuS7K6GKJn1VIrpDICdmjugsHDoYoB3HajiEZamE" target="_blank">How to build a SaaS with $0 – Hacker Noon</a>
+- <a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020</a>
 - <a href="https://medium.com/better-programming/the-zero-dollar-infrastructure-stack-7c840a8b555b" target="_blank">The Zero-Dollar Infrastructure Stack - Better Programming - Medium</a>
+- <a href="http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/?fbclid=IwAR3-0LTZFALGZTHUNyWu9NNd7naz77_5Grb2buxDZ5S-ymifKF7LfPjTvns" target="_blank">Stop using JWT for sessions - joepie91's Ramblings</a>
 - <a href="http://itcontent.eu/aktywne-strony-tor/" target="_blank">Aktywne Strony TOR Kwiecień 2020 Aktualizacja 07.04.2020</a>
 - <a href="https://andreasbm.github.io/web-skills/?compact" target="_blank">Web Skills</a>
 - <a href="https://adayinthelifeof.nl/2020/05/20/aws.html" target="_blank">Amazon Web Services</a>
-- <a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">GitHub - kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020</a>
 - <a href="https://bighack.org/5-most-annoying-website-features-i-face-as-a-blind-screen-reader-user-accessibility/" target="_blank">5 most annoying website features I face as a blind person every single day | The Big Hack</a>
-- <a href="http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/?fbclid=IwAR3-0LTZFALGZTHUNyWu9NNd7naz77_5Grb2buxDZ5S-ymifKF7LfPjTvns" target="_blank">Stop using JWT for sessions - joepie91's Ramblings</a>
 
 ## startup
 
@@ -194,21 +193,20 @@ key: page-awesome-links
 - <a href="https://www.gkogan.co/blog/stop-asking-me-to-sign-up/" target="_blank">Stop Asking Me to “Sign Up” | Greg Kogan</a>
 - <a href="https://news.ycombinator.com/item?id=24601579" target="_blank">Ask HN: How to learn sales? | Hacker News</a>
 - <a href="http://paulgraham.com/early.html" target="_blank">Early Work</a>
-- <a href="https://www.nodegit.org/api/" target="_blank">add</a>
 - <a href="http://www.paulgraham.com/notnot.html" target="_blank">Why to Not Not Start a Startup</a>
+- <a href="https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8?fbclid=IwAR2XEvkuL-35agvKFVkEuS7K6GKJn1VIrpDICdmjugsHDoYoB3HajiEZamE" target="_blank">How to build a SaaS with $0 – Hacker Noon</a>
 
 ## career
 
+- <a href="https://github.com/viraptor/reverse-interview" target="_blank">viraptor/reverse-interview: Questions to ask the company during your interview</a>
 - <a href="https://pomocwangielskim.pl/pytania-ktore-programista-powinien-zadac-potencjalnemu-pracodawcy?fbclid=IwAR0fEBRBNTrnWlpj24msV8e_-nuAPppXIgh6qXTix1WQQ5lcv4kHegqpxvc" target="_blank">Pytania, które programista powinien zadać potencjalnemu pracodawcy. Jak się nie wpakować w beznadziejny kod? - Pomoc w angielskim</a>
 - <a href="https://medium.com/@angadsingh_40633/how-i-got-a-90k-job-tc-as-a-self-taught-web-developer-with-1-5-years-of-experience-in-germany-465d5281f7fa" target="_blank">How I got a € 90k+ job (TC) in Germany as a self-taught web developer with 1.5 years of experience.</a>
-- <a href="https://github.com/viraptor/reverse-interview" target="_blank">viraptor/reverse-interview: Questions to ask the company during your interview</a>
 - <a href="https://guzey.com/productivity/" target="_blank">Every productivity thought I've ever had, as concisely as possible - Alexey Guzey</a>
 - <a href="https://blog.pragmaticengineer.com/the-developer-culture-test/" target="_blank">The Pragmatic Engineer’s Developer Culture Test</a>
 - <a href="https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html" target="_blank">https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html</a>
 - <a href="https://www.youtube.com/watch?v=dyGaJ82o41k&feature=youtu.be&fbclid=IwAR1chd51LBIZzVGDanhTR1afrb79YqpMkgB_pkoXyl27LJFHOCvPom943NU" target="_blank">2017 - Wojciech Seliga - Plantacje programistów - kolonializm XXI wieku - YouTube</a>
 - <a href="https://doist.com/blog/deep-work/" target="_blank">Deep Work: The Complete Guide (Including a Step-by-Step Checklist)</a>
 - <a href="https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky?guid=none&deviceId=c3d25e62-877d-4077-9565-d352ca07b7c7" target="_blank">What I Learned from Doing 60+ Technical Interviews in 30 Days</a>
-- <a href="https://medium.com/@meekg33k/14-lessons-i-learned-from-doing-60-technical-interviews-in-30-days-7732e4f7608d" target="_blank">14 Lessons I Learned From Doing 60+ Technical Interviews in 30 Days | by Uduak Obong-Eren | Sep, 2020 | Medium</a>
 - <a href="https://www.kalzumeus.com/2012/01/23/salary-negotiation/" target="_blank">Salary Negotiation: Make More Money, Be More Valued | Kalzumeus Software</a>
 - <a href="https://www.swyx.io/learn-in-public/" target="_blank">Learn In Public | swyx.io</a>
 
@@ -219,15 +217,15 @@ key: page-awesome-links
 
 ## security
 
+- <a href="https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram" target="_blank">When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number</a>
+- <a href="https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing" target="_blank">Operation Luigi: How I hacked my friend without her noticing</a>
+- <a href="https://mango.pdf.zone/" target="_blank">the mango zone</a>
 - <a href="https://zwischenzugs.com/2019/09/22/software-security-field-guide-for-the-bewildered/?fbclid=IwAR2OFsG31m1SDXqH3PM7m8p4DhkUkm1pVXXcLZQGd64pfpQgvth9KXUCqxc" target="_blank">Software Security Field Guide for the Bewildered – zwischenzugs</a>
 - <a href="https://support.mozilla.org/en-US/kb/firefox-dns-over-https" target="_blank">Firefox DNS-over-HTTPS | Firefox Help</a>
 - <a href="https://github.com/tycrek/degoogle" target="_blank">tycrek/degoogle: Repo for the r/privacy "degoogle" megathread</a>
 - <a href="https://blog.haschek.at/2015-that-not-so-awesome-time-the-police" target="_blank">That (not so) awesome time the police raided my home</a>
 - <a href="https://levelup.gitconnected.com/10-security-tips-for-frontend-developers-19e3dd9fb069" target="_blank">10 security tips for frontend developers - Level Up Coding</a>
 - <a href="https://utkusen.com/blog/security-by-obscurity-is-underrated.html" target="_blank">Security by Obscurity is Underrated – Utku Sen - Blog – computer security, programming</a>
-- <a href="https://mango.pdf.zone/" target="_blank">the mango zone</a>
-- <a href="https://mango.pdf.zone/operation-luigi-how-i-hacked-my-friend-without-her-noticing" target="_blank">Operation Luigi: How I hacked my friend without her noticing</a>
-- <a href="https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram" target="_blank">When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number</a>
 - <a href="https://stackabuse.com/get-http-post-body-in-express-js/" target="_blank">Get HTTP POST Body in Express.js</a>
 
 ## Personal growth
@@ -235,12 +233,9 @@ key: page-awesome-links
 - <a href="https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model" target="_blank">How to stop procrastinating by using the Fogg Behavior Model</a>
 - <a href="https://mobile.twitter.com/naval/status/1261481752448524289" target="_blank">Naval na Twitterze: „In an age of mental gluttony, meditation is fasting for the mind. Before paying a therapist to listen to you, listen to yourself. Before clearing your inbox, clear your mind.” / Twitter</a>
 - <a href="https://www.calnewport.com/blog/" target="_blank">Study Hacks - Decoding Patterns of Success - Cal Newport</a>
+- <a href="https://www.calnewport.com/blog/2008/04/07/monday-master-class-how-to-reduce-stress-and-get-more-done-by-building-an-autopilot-schedule/" target="_blank">Monday Master Class: How to Reduce Stress and Get More Done By Building an Autopilot Schedule - Study Hacks - Cal Newport</a>
 
 ## various
 
 - <a href="https://github.com/elyase/awesome-gpt3" target="_blank">elyase/awesome-gpt3</a>
 - <a href="https://maraoz.com/2020/07/18/openai-gpt3/" target="_blank">OpenAI's GPT-3 may be the biggest thing since bitcoin</a>
-- <a href="https://dev.to/ombharatiya/9-must-watch-movies-for-programmers-4kgp" target="_blank">9 Must Watch Movies for Programmers in 2020 🎬 - DEV</a>
-
-## Privacy
-
