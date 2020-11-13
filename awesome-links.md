@@ -11,6 +11,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## js
 
@@ -77,6 +78,7 @@ key: page-awesome-links
 - <a href="https://www.robinwieruch.de/react-hooks-fetch-data" target="_blank">How to fetch data with React Hooks? - RWieruch</a>
 - <a href="https://epicreact.dev/myths-about-useeffect/" target="_blank">Myths about useEffect | Epic React by Kent C. Dodds</a>
 - <a href="https://www.sitepoint.com/react-interview-questions-solutions/" target="_blank">15 React Interview Questions with Solutions - SitePoint</a>
+- <a href="https://levelup.gitconnected.com/state-management-in-react-using-context-api-and-hooks-931c9842f204" target="_blank">State Management in React using the Context API and Hooks | by Dipankar Barman | Level Up Coding</a>
 
 ## css/design
 
@@ -238,6 +240,7 @@ key: page-awesome-links
 - <a href="https://mobile.twitter.com/naval/status/1261481752448524289" target="_blank">Naval na Twitterze: „In an age of mental gluttony, meditation is fasting for the mind. Before paying a therapist to listen to you, listen to yourself. Before clearing your inbox, clear your mind.” / Twitter</a>
 - <a href="https://www.calnewport.com/blog/" target="_blank">Study Hacks - Decoding Patterns of Success - Cal Newport</a>
 - <a href="https://www.calnewport.com/blog/2008/04/07/monday-master-class-how-to-reduce-stress-and-get-more-done-by-building-an-autopilot-schedule/" target="_blank">Monday Master Class: How to Reduce Stress and Get More Done By Building an Autopilot Schedule - Study Hacks - Cal Newport</a>
+- <a href="https://www.swyx.io/learn-in-private/" target="_blank">How To Learn In Private | swyx.io</a>
 
 ## various
 
