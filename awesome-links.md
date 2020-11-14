@@ -12,6 +12,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## js
 
@@ -164,7 +165,6 @@ key: page-awesome-links
 - <a href="https://cloud.google.com/products/ai/ml-comic-1/?fbclid=IwAR1a0rCqC5A7sd1_XIRHofOkpQdUfS47Msxh29W62_gZM8Qgaq9lDMmd20Q" target="_blank">Learning Machine Learning  |  Cloud AI  |  Google Cloud</a>
 - <a href="https://unix4lyfe.org/time/" target="_blank">Time</a>
 - <a href="http://www-inst.eecs.berkeley.edu/~cs61a/reader/notes.pdf" target="_blank">SICP lectures notes</a>
-- <a href="http://0.0.0.0:8002/coach/dashboard/add-training?runnerId=5e1f0aac887322370edd3b85" target="_blank">Edytuj treningi / ArdentCoach</a>
 - <a href="https://github.com/snori74/linuxupskillchallenge" target="_blank">GitHub - snori74/linuxupskillchallenge: Learn the skills required to sysadmin a remote Linux server from the commandline.</a>
 - <a href="https://words-counter.stackblitz.io/" target="_blank">https://words-counter.stackblitz.io</a>
 - <a href="https://github.com/kdeldycke/awesome-falsehood#software-engineering" target="_blank">kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in</a>
