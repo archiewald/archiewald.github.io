@@ -16,8 +16,9 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
-## js
+## javascript
 
 - <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">(248) What the heck is the event loop anyway? | Philip Roberts | JSConf EU - YouTube</a>
 - <a href="http://latentflip.com/loupe/" target="_blank">latentflip.com/loupe/</a>
@@ -41,7 +42,7 @@ key: page-awesome-links
 - <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous" target="_blank">Asynchronous JavaScript - Learn web development | MDN</a>
 - <a href="https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42" target="_blank">Arrayzing - The JavaScript array cheatsheet</a>
 
-## ts
+## typescript
 
 - <a href="https://basarat.gitbooks.io/typescript/" target="_blank">Introduction · TypeScript Deep Dive</a>
 - <a href="https://github.com/labs42io/clean-code-typescript" target="_blank">labs42io/clean-code-typescript: Clean Code concepts adapted for TypeScript</a>
