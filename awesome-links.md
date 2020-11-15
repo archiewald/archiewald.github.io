@@ -13,6 +13,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## js
 
@@ -35,8 +36,8 @@ key: page-awesome-links
 - <a href="https://developers.google.com/web/tools/chrome-devtools/javascript" target="_blank">Get Started with Debugging JavaScript in Chrome DevTools</a>
 - <a href="https://dev.to/ender_minyard/28-code-tutorials-for-visual-learners-19pl?fbclid=IwAR0IBInwDoJuMR-qIGPLv6a0yDp3Z8VMnEKYX7nv2zCAHTNKvj44ZHt7wfo" target="_blank">🎉32 Code Tutorials for Visual Learners 🖼 - DEV Community 👩‍💻👨‍💻</a>
 - <a href="https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/" target="_blank">Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript | Tania Rascia</a>
-- <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous" target="_blank">Asynchronous JavaScript - Learn web development | MDN</a>
 - <a href="https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42" target="_blank">Arrayzing - The JavaScript array cheatsheet</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous" target="_blank">Asynchronous JavaScript - Learn web development | MDN</a>
 
 ## ts
 
@@ -205,6 +206,7 @@ key: page-awesome-links
 ## career
 
 - <a href="https://github.com/viraptor/reverse-interview" target="_blank">viraptor/reverse-interview: Questions to ask the company during your interview</a>
+- <a href="https://www.swyx.io/learn-in-public/" target="_blank">Learn In Public | swyx.io</a>
 - <a href="https://pomocwangielskim.pl/pytania-ktore-programista-powinien-zadac-potencjalnemu-pracodawcy?fbclid=IwAR0fEBRBNTrnWlpj24msV8e_-nuAPppXIgh6qXTix1WQQ5lcv4kHegqpxvc" target="_blank">Pytania, które programista powinien zadać potencjalnemu pracodawcy. Jak się nie wpakować w beznadziejny kod? - Pomoc w angielskim</a>
 - <a href="https://medium.com/@angadsingh_40633/how-i-got-a-90k-job-tc-as-a-self-taught-web-developer-with-1-5-years-of-experience-in-germany-465d5281f7fa" target="_blank">How I got a € 90k+ job (TC) in Germany as a self-taught web developer with 1.5 years of experience.</a>
 - <a href="https://guzey.com/productivity/" target="_blank">Every productivity thought I've ever had, as concisely as possible - Alexey Guzey</a>
@@ -214,7 +216,6 @@ key: page-awesome-links
 - <a href="https://doist.com/blog/deep-work/" target="_blank">Deep Work: The Complete Guide (Including a Step-by-Step Checklist)</a>
 - <a href="https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky?guid=none&deviceId=c3d25e62-877d-4077-9565-d352ca07b7c7" target="_blank">What I Learned from Doing 60+ Technical Interviews in 30 Days</a>
 - <a href="https://www.kalzumeus.com/2012/01/23/salary-negotiation/" target="_blank">Salary Negotiation: Make More Money, Be More Valued | Kalzumeus Software</a>
-- <a href="https://www.swyx.io/learn-in-public/" target="_blank">Learn In Public | swyx.io</a>
 
 ## node
 
@@ -244,5 +245,5 @@ key: page-awesome-links
 
 ## various
 
-- <a href="https://github.com/elyase/awesome-gpt3" target="_blank">elyase/awesome-gpt3</a>
 - <a href="https://maraoz.com/2020/07/18/openai-gpt3/" target="_blank">OpenAI's GPT-3 may be the biggest thing since bitcoin</a>
+- <a href="https://github.com/elyase/awesome-gpt3" target="_blank">elyase/awesome-gpt3</a>
