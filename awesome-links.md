@@ -18,6 +18,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -252,3 +253,4 @@ key: page-awesome-links
 - <a href="https://maraoz.com/2020/07/18/openai-gpt3/" target="_blank">OpenAI's GPT-3 may be the biggest thing since bitcoin</a>
 - <a href="https://github.com/elyase/awesome-gpt3" target="_blank">elyase/awesome-gpt3</a>
 - <a href="https://www.commandlinefu.com/commands/browse/sort-by-votes/25" target="_blank">All commands sorted by votes</a>
+- <a href="https://wanago.io/courses/typescript-express-tutorial/" target="_blank">TypeScript Express tutorial Archives - Marcin Wanago Blog - JavaScript, both frontend and backend</a>
