@@ -22,6 +22,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -156,7 +157,6 @@ key: page-awesome-links
 - <a href="https://zef.me/2017/12/28/the-100x-engineer/" target="_blank">The 100x Engineer – Zef’s Musings 🤔</a>
 - <a href="https://floating-point-gui.de/" target="_blank">The Floating-Point Guide - What Every Programmer Should Know About Floating-Point Arithmetic</a>
 - <a href="https://www.researchgate.net/figure/IBM-System-Science-Institute-Relative-Cost-of-Fixing-Defects_fig1_255965523" target="_blank">IBM System Science Institute Relative Cost of Fixing Defects  | Download Scientific Diagram</a>
-- <a href="http://www.paulgraham.com/early.html" target="_blank">Early Work</a>
 
 ## blockchain
 
@@ -212,6 +212,7 @@ key: page-awesome-links
 - <a href="http://paulgraham.com/early.html" target="_blank">Early Work</a>
 - <a href="http://www.paulgraham.com/notnot.html" target="_blank">Why to Not Not Start a Startup</a>
 - <a href="https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8?fbclid=IwAR2XEvkuL-35agvKFVkEuS7K6GKJn1VIrpDICdmjugsHDoYoB3HajiEZamE" target="_blank">How to build a SaaS with $0 – Hacker Noon</a>
+- <a href="http://www.paulgraham.com/early.html" target="_blank">Early Work</a>
 
 ## career
 
