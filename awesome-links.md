@@ -21,6 +21,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -154,6 +155,8 @@ key: page-awesome-links
 - <a href="https://m.youtube.com/watch?v=hTNEVYcG1kc" target="_blank">Podstawy pracy w terminalu w systemie Linux - YouTube</a>
 - <a href="https://zef.me/2017/12/28/the-100x-engineer/" target="_blank">The 100x Engineer – Zef’s Musings 🤔</a>
 - <a href="https://floating-point-gui.de/" target="_blank">The Floating-Point Guide - What Every Programmer Should Know About Floating-Point Arithmetic</a>
+- <a href="https://www.researchgate.net/figure/IBM-System-Science-Institute-Relative-Cost-of-Fixing-Defects_fig1_255965523" target="_blank">IBM System Science Institute Relative Cost of Fixing Defects  | Download Scientific Diagram</a>
+- <a href="http://www.paulgraham.com/early.html" target="_blank">Early Work</a>
 
 ## blockchain
 
