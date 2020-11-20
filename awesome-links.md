@@ -23,6 +23,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -213,6 +214,7 @@ key: page-awesome-links
 - <a href="http://www.paulgraham.com/notnot.html" target="_blank">Why to Not Not Start a Startup</a>
 - <a href="https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8?fbclid=IwAR2XEvkuL-35agvKFVkEuS7K6GKJn1VIrpDICdmjugsHDoYoB3HajiEZamE" target="_blank">How to build a SaaS with $0 – Hacker Noon</a>
 - <a href="http://www.paulgraham.com/early.html" target="_blank">Early Work</a>
+- <a href="http://www.paulgraham.com/startupideas.html#f3n" target="_blank">How to Get Startup Ideas</a>
 
 ## career
 
