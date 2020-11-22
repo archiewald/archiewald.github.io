@@ -13,8 +13,20 @@ key: page-awesome-links
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- awesome-links-feed -->
-## js
+## javascript
 
 - <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ" target="_blank">(248) What the heck is the event loop anyway? | Philip Roberts | JSConf EU - YouTube</a>
 - <a href="http://latentflip.com/loupe/" target="_blank">latentflip.com/loupe/</a>
@@ -38,7 +50,7 @@ key: page-awesome-links
 - <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous" target="_blank">Asynchronous JavaScript - Learn web development | MDN</a>
 - <a href="https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42" target="_blank">Arrayzing - The JavaScript array cheatsheet</a>
 
-## ts
+## typescript
 
 - <a href="https://basarat.gitbooks.io/typescript/" target="_blank">Introduction · TypeScript Deep Dive</a>
 - <a href="https://github.com/labs42io/clean-code-typescript" target="_blank">labs42io/clean-code-typescript: Clean Code concepts adapted for TypeScript</a>
@@ -60,8 +72,8 @@ key: page-awesome-links
 - <a href="https://whatwebcando.today/" target="_blank">What Web Can Do Today</a>
 - <a href="https://www.my127001.pl/przykladowy-raport-z-rzeczywistego-testu-penetracyjnego/" target="_blank">Przykładowy raport z rzeczywistego testu penetracyjnego - Moje miejsce w sieci</a>
 - <a href="https://www.markdowntutorial.com/" target="_blank">Markdown Tutorial</a>
-- <a href="https://overreacted.io/what-is-javascript-made-of/" target="_blank">What Is JavaScript Made Of? — Overreacted</a>
 - <a href="https://developers.chrome.com/extensions/bookmarks#event-onCreated" target="_blank">chrome.bookmarks - Google Chrome</a>
+- <a href="https://overreacted.io/what-is-javascript-made-of/" target="_blank">What Is JavaScript Made Of? — Overreacted</a>
 
 ## react
 
@@ -146,6 +158,7 @@ key: page-awesome-links
 - <a href="https://m.youtube.com/watch?v=hTNEVYcG1kc" target="_blank">Podstawy pracy w terminalu w systemie Linux - YouTube</a>
 - <a href="https://zef.me/2017/12/28/the-100x-engineer/" target="_blank">The 100x Engineer – Zef’s Musings 🤔</a>
 - <a href="https://floating-point-gui.de/" target="_blank">The Floating-Point Guide - What Every Programmer Should Know About Floating-Point Arithmetic</a>
+- <a href="https://www.researchgate.net/figure/IBM-System-Science-Institute-Relative-Cost-of-Fixing-Defects_fig1_255965523" target="_blank">IBM System Science Institute Relative Cost of Fixing Defects  | Download Scientific Diagram</a>
 
 ## blockchain
 
@@ -201,10 +214,12 @@ key: page-awesome-links
 - <a href="http://paulgraham.com/early.html" target="_blank">Early Work</a>
 - <a href="http://www.paulgraham.com/notnot.html" target="_blank">Why to Not Not Start a Startup</a>
 - <a href="https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8?fbclid=IwAR2XEvkuL-35agvKFVkEuS7K6GKJn1VIrpDICdmjugsHDoYoB3HajiEZamE" target="_blank">How to build a SaaS with $0 – Hacker Noon</a>
+- <a href="http://www.paulgraham.com/startupideas.html#f3n" target="_blank">How to Get Startup Ideas</a>
 
 ## career
 
 - <a href="https://github.com/viraptor/reverse-interview" target="_blank">viraptor/reverse-interview: Questions to ask the company during your interview</a>
+- <a href="https://www.swyx.io/learn-in-public/" target="_blank">Learn In Public | swyx.io</a>
 - <a href="https://pomocwangielskim.pl/pytania-ktore-programista-powinien-zadac-potencjalnemu-pracodawcy?fbclid=IwAR0fEBRBNTrnWlpj24msV8e_-nuAPppXIgh6qXTix1WQQ5lcv4kHegqpxvc" target="_blank">Pytania, które programista powinien zadać potencjalnemu pracodawcy. Jak się nie wpakować w beznadziejny kod? - Pomoc w angielskim</a>
 - <a href="https://medium.com/@angadsingh_40633/how-i-got-a-90k-job-tc-as-a-self-taught-web-developer-with-1-5-years-of-experience-in-germany-465d5281f7fa" target="_blank">How I got a € 90k+ job (TC) in Germany as a self-taught web developer with 1.5 years of experience.</a>
 - <a href="https://guzey.com/productivity/" target="_blank">Every productivity thought I've ever had, as concisely as possible - Alexey Guzey</a>
@@ -214,12 +229,12 @@ key: page-awesome-links
 - <a href="https://doist.com/blog/deep-work/" target="_blank">Deep Work: The Complete Guide (Including a Step-by-Step Checklist)</a>
 - <a href="https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky?guid=none&deviceId=c3d25e62-877d-4077-9565-d352ca07b7c7" target="_blank">What I Learned from Doing 60+ Technical Interviews in 30 Days</a>
 - <a href="https://www.kalzumeus.com/2012/01/23/salary-negotiation/" target="_blank">Salary Negotiation: Make More Money, Be More Valued | Kalzumeus Software</a>
-- <a href="https://www.swyx.io/learn-in-public/" target="_blank">Learn In Public | swyx.io</a>
 
 ## node
 
 - <a href="https://www.youtube.com/watch?v=cu9-GphZkKI" target="_blank">(248) Installing MongoDB with Homebrew on macOS - YouTube</a>
 - <a href="https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/" target="_blank">NPM & left-pad: Have We Forgotten How To Program? - David Haney - Blogging my experiences as a developer and engineering manager.</a>
+- <a href="https://wanago.io/courses/typescript-express-tutorial/" target="_blank">TypeScript Express tutorial Archives - Marcin Wanago Blog - JavaScript, both frontend and backend</a>
 
 ## security
 
@@ -244,5 +259,6 @@ key: page-awesome-links
 
 ## various
 
-- <a href="https://github.com/elyase/awesome-gpt3" target="_blank">elyase/awesome-gpt3</a>
 - <a href="https://maraoz.com/2020/07/18/openai-gpt3/" target="_blank">OpenAI's GPT-3 may be the biggest thing since bitcoin</a>
+- <a href="https://github.com/elyase/awesome-gpt3" target="_blank">elyase/awesome-gpt3</a>
+- <a href="https://www.commandlinefu.com/commands/browse/sort-by-votes/25" target="_blank">All commands sorted by votes</a>
