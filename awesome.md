@@ -25,6 +25,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -49,6 +50,8 @@ key: page-awesome-links
 - <a href="https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await/" target="_blank">Understanding the Event Loop, Callbacks, Promises, and Async/Await in JavaScript | Tania Rascia</a>
 - <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous" target="_blank">Asynchronous JavaScript - Learn web development | MDN</a>
 - <a href="https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42" target="_blank">Arrayzing - The JavaScript array cheatsheet</a>
+- <a href="https://dev.to/lydiahallie/series/3341" target="_blank">JavaScript Visualized Series' Articles - DEV</a>
+- <a href="https://javascript.info/" target="_blank">The Modern JavaScript Tutorial</a>
 
 ## typescript
 
@@ -61,19 +64,6 @@ key: page-awesome-links
 - <a href="https://www.reddit.com/r/typescript/comments/iww4hs/a_sql_database_implemented_purely_in_typescript/" target="_blank">A SQL database implemented purely in TypeScript type annotations. - typescript</a>
 - <a href="https://www.typescriptlang.org/play?ts=4.1.0-dev.20200920#code/C4TwDgpgBAymA2BLYAeGUIA9gQHYBMBnKQ4AJ0VwHMAaKAEQ2zyJPMqoD4oBeWJnAWIADACQBvSgDMIZKABUAvhPrLJuGXICqi4VAD8UANry6AOgtwkqLXXqcAulABcxmA4DcAKFCQFAQwBrCAAZf1IUADVuPkiBFmIjJ0NcCAA3WRcoOKxBViNSCmpk7KMABidXHOYhY0KOcwtpTIAlEvkg0PDUFu5XVIyyb19oeQoAWxCIKVRqvOJ66hjs+Nq9CWa5Ft0DBQmpmZRerMjh8FGJlsQqAAtZ1dZFrl4V3ISoMXVNKG2P3bHEOMrrcen1smc-ADxlEHgt2EsXlCDqgocC7lFOJwIdAYOwwABZAD2+EQUkQshhb1qTzo+NhbCKz1i9M+mygITU+LUbIAgjtDCETtjYHiiSSybJCJSao94UyRRQCcTSeSyGhRcqJWrcYqxSqKTrEErxaqonQAORmc2cC0AYmtFqMDqg5uc1uFHWCYVIPJmsnkhOCuGl8wZDQU9Key0Nxv1ZClnq6ESsyBQUIxdHkmKxPnOUAA4hBgN7gABReAQcZ4YAAOX8VZD7yjiM6Jd9ODIAaDadb3Xb-sDeDNLpdNtH7tzfkLZf8AGMbuXK9W6w3InRBVTZYyki8kssvFBD68ZYknAejxeBVBzxfD1V6QU5Wfb0fDEYLGYQnRpyXF1XcLW9YQFE5QOI414vnex6ho+jKNGYbJtBBkGGNOpZzguFb-oBDYtHQ74WF+BZFr+WHLkBIEVI43A3rerhJMKaFkQBK4QFKcxNnKyxoRhf7kQ2KazBaNDWjmIxQHxAEAEIgKxjbUlxLy0RxtTBCAhJSFAAAS8j4iEknAB0VCsfi-hgMhL6GDpekGUZJlmUYkTPpB96bsQakabAkT5rZ-jGUBpnmbRl5eT5zGGX59lgI5zkvq4BnCqZwDzuhKXhcOG4nhJ4VQAAPlAuAAK7wPALxFSV+4Xip+SxbeV7BUerlZbBHC1SFgr5QZMlyZEoE0ZBJwPjSUAfohbWvlASUpbx6V4eyeXZUu0myRRvVUf1Lnst4k7QAAioVsggC0bHFSikaKXwU0LjNS2oExt2sQmmLbQA9AAVG9B5vRJmD1ggEBfS9Xj4BAs7wP4ZDQFIhW4LOwCIISuBQAAjgdZAgDAEAVnDhJqvI52MpwAAUqOHa48gAJSuPth3HYQp1pjmXizojpBQP4Lyk+jmPY8AuNE+aJJpGYABG-i4KkcjcP4Zizv4JUALR8wrc7w4j5oU1AL0vQr3DWSEPKwzcuMGczrPAFAIuc2jGNY6DfNkALlBgIVwB0ELGtazreu6SEACSuAu2WOX5fr9CIGkpss7gbOztbh08-b-PmrOiBkGDEBGLOmA8AARAAjAArGUucOJ72u66FADCacZ1H5tQPg8fc3bOOO+aIuu3zuC2p3IAK7ghIAO7l972m+1JXeI-XMcW9AfBc7bvPJ4Q9sI0jYDOGS8bAArGlK+cGseF7lf6wAChDflkGZmG3V4QA" target="_blank">TypeScript: Playground - An online editor for exploring TypeScript and JavaScript</a>
 - <a href="https://github.com/codemix/ts-sql" target="_blank">GitHub - codemix/ts-sql: A SQL database implemented purely in TypeScript type annotations.</a>
-
-## frontend
-
-- <a href="https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/" target="_blank">Why is modern web development so complicated? A long yet hasty explanation: Part 1! - vrk.dev</a>
-- <a href="https://frontendmasters.com/books/front-end-handbook/2018/learning/browser-dev-tools.html" target="_blank">Learn Web Dev Tools · Front-End Developer Handbook 2018</a>
-- <a href="https://www.10bestdesign.com/dirtymarkup/" target="_blank">DirtyMarkup Formatter - HTML, CSS, & JavaScript Beautifier</a>
-- <a href="https://github.com/gothinkster/realworld" target="_blank">gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅</a>
-- <a href="https://github.com/tastejs/todomvc" target="_blank">tastejs/todomvc: Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more</a>
-- <a href="https://whatwebcando.today/" target="_blank">What Web Can Do Today</a>
-- <a href="https://www.my127001.pl/przykladowy-raport-z-rzeczywistego-testu-penetracyjnego/" target="_blank">Przykładowy raport z rzeczywistego testu penetracyjnego - Moje miejsce w sieci</a>
-- <a href="https://www.markdowntutorial.com/" target="_blank">Markdown Tutorial</a>
-- <a href="https://developers.chrome.com/extensions/bookmarks#event-onCreated" target="_blank">chrome.bookmarks - Google Chrome</a>
-- <a href="https://overreacted.io/what-is-javascript-made-of/" target="_blank">What Is JavaScript Made Of? — Overreacted</a>
 
 ## react
 
@@ -92,6 +82,22 @@ key: page-awesome-links
 - <a href="https://epicreact.dev/myths-about-useeffect/" target="_blank">Myths about useEffect | Epic React by Kent C. Dodds</a>
 - <a href="https://www.sitepoint.com/react-interview-questions-solutions/" target="_blank">15 React Interview Questions with Solutions - SitePoint</a>
 - <a href="https://levelup.gitconnected.com/state-management-in-react-using-context-api-and-hooks-931c9842f204" target="_blank">State Management in React using the Context API and Hooks | by Dipankar Barman | Level Up Coding</a>
+- <a href="https://antongunnarsson.com/react-component-code-smells/" target="_blank">React component code smells | anton gunnarsson</a>
+
+## frontend
+
+- <a href="https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/" target="_blank">Why is modern web development so complicated? A long yet hasty explanation: Part 1! - vrk.dev</a>
+- <a href="https://frontendmasters.com/books/front-end-handbook/2018/learning/browser-dev-tools.html" target="_blank">Learn Web Dev Tools · Front-End Developer Handbook 2018</a>
+- <a href="https://www.10bestdesign.com/dirtymarkup/" target="_blank">DirtyMarkup Formatter - HTML, CSS, & JavaScript Beautifier</a>
+- <a href="https://github.com/gothinkster/realworld" target="_blank">gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅</a>
+- <a href="https://github.com/tastejs/todomvc" target="_blank">tastejs/todomvc: Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more</a>
+- <a href="https://whatwebcando.today/" target="_blank">What Web Can Do Today</a>
+- <a href="https://www.my127001.pl/przykladowy-raport-z-rzeczywistego-testu-penetracyjnego/" target="_blank">Przykładowy raport z rzeczywistego testu penetracyjnego - Moje miejsce w sieci</a>
+- <a href="https://www.markdowntutorial.com/" target="_blank">Markdown Tutorial</a>
+- <a href="https://developers.chrome.com/extensions/bookmarks#event-onCreated" target="_blank">chrome.bookmarks - Google Chrome</a>
+- <a href="https://overreacted.io/what-is-javascript-made-of/" target="_blank">What Is JavaScript Made Of? — Overreacted</a>
+- <a href="https://dev.to/jstarmx/how-the-browser-renders-a-web-page-1ahc" target="_blank">How the browser renders a web page - DEV</a>
+- <a href="https://dmitripavlutin.com/javascript-prototypal-inheritance/" target="_blank">What Makes JavaScript JavaScript? Prototypal Inheritance</a>
 
 ## css/design
 
@@ -159,6 +165,7 @@ key: page-awesome-links
 - <a href="https://zef.me/2017/12/28/the-100x-engineer/" target="_blank">The 100x Engineer – Zef’s Musings 🤔</a>
 - <a href="https://floating-point-gui.de/" target="_blank">The Floating-Point Guide - What Every Programmer Should Know About Floating-Point Arithmetic</a>
 - <a href="https://www.researchgate.net/figure/IBM-System-Science-Institute-Relative-Cost-of-Fixing-Defects_fig1_255965523" target="_blank">IBM System Science Institute Relative Cost of Fixing Defects  | Download Scientific Diagram</a>
+- <a href="https://refactoring.guru/design-patterns/" target="_blank">Design Patterns</a>
 
 ## blockchain
 
@@ -235,6 +242,7 @@ key: page-awesome-links
 - <a href="https://www.youtube.com/watch?v=cu9-GphZkKI" target="_blank">(248) Installing MongoDB with Homebrew on macOS - YouTube</a>
 - <a href="https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/" target="_blank">NPM & left-pad: Have We Forgotten How To Program? - David Haney - Blogging my experiences as a developer and engineering manager.</a>
 - <a href="https://wanago.io/courses/typescript-express-tutorial/" target="_blank">TypeScript Express tutorial Archives - Marcin Wanago Blog - JavaScript, both frontend and backend</a>
+- <a href="https://www.digitalocean.com/community/tutorials/how-to-secure-node-js-applications-with-a-content-security-policy" target="_blank">How To Secure Node.js Applications with a Content Security Policy | DigitalOcean</a>
 
 ## security
 
@@ -262,3 +270,9 @@ key: page-awesome-links
 - <a href="https://maraoz.com/2020/07/18/openai-gpt3/" target="_blank">OpenAI's GPT-3 may be the biggest thing since bitcoin</a>
 - <a href="https://github.com/elyase/awesome-gpt3" target="_blank">elyase/awesome-gpt3</a>
 - <a href="https://www.commandlinefu.com/commands/browse/sort-by-votes/25" target="_blank">All commands sorted by votes</a>
+- <a href="https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2" target="_blank">Why Is Apple’s M1 Chip So Fast?. Real world exper…</a>
+- <a href="https://www.singhkays.com/blog/apple-silicon-m1-black-magic/" target="_blank">Apple Silicon M1: Black. Magic. Fuckery. - Kay's…</a>
+
+## Db
+
+- <a href="https://developer.mongodb.com/article/everything-you-know-is-wrong/" target="_blank">Everything You Know About MongoDB is Wrong!</a>
