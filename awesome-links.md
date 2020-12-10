@@ -265,6 +265,10 @@ key: page-awesome-links
 - <a href="https://www.calnewport.com/blog/2008/04/07/monday-master-class-how-to-reduce-stress-and-get-more-done-by-building-an-autopilot-schedule/" target="_blank">Monday Master Class: How to Reduce Stress and Get More Done By Building an Autopilot Schedule - Study Hacks - Cal Newport</a>
 - <a href="https://www.swyx.io/learn-in-private/" target="_blank">How To Learn In Private | swyx.io</a>
 
+## Db
+
+- <a href="https://developer.mongodb.com/article/everything-you-know-is-wrong/" target="_blank">Everything You Know About MongoDB is Wrong!</a>
+
 ## various
 
 - <a href="https://maraoz.com/2020/07/18/openai-gpt3/" target="_blank">OpenAI's GPT-3 may be the biggest thing since bitcoin</a>
@@ -272,7 +276,3 @@ key: page-awesome-links
 - <a href="https://www.commandlinefu.com/commands/browse/sort-by-votes/25" target="_blank">All commands sorted by votes</a>
 - <a href="https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2" target="_blank">Why Is Apple’s M1 Chip So Fast?. Real world exper…</a>
 - <a href="https://www.singhkays.com/blog/apple-silicon-m1-black-magic/" target="_blank">Apple Silicon M1: Black. Magic. Fuckery. - Kay's…</a>
-
-## Db
-
-- <a href="https://developer.mongodb.com/article/everything-you-know-is-wrong/" target="_blank">Everything You Know About MongoDB is Wrong!</a>
