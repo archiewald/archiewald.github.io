@@ -26,6 +26,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -52,6 +53,7 @@ key: page-awesome-links
 - <a href="https://gist.github.com/ourmaninamsterdam/1be9a5590c9cf4a0ab42" target="_blank">Arrayzing - The JavaScript array cheatsheet</a>
 - <a href="https://dev.to/lydiahallie/series/3341" target="_blank">JavaScript Visualized Series' Articles - DEV</a>
 - <a href="https://javascript.info/" target="_blank">The Modern JavaScript Tutorial</a>
+- <a href="https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html#detailmvc" target="_blank">Learning JavaScript Design Patterns</a>
 
 ## typescript
 
