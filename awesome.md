@@ -28,6 +28,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -246,6 +247,8 @@ key: page-awesome-links
 - <a href="https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/" target="_blank">NPM & left-pad: Have We Forgotten How To Program? - David Haney - Blogging my experiences as a developer and engineering manager.</a>
 - <a href="https://wanago.io/courses/typescript-express-tutorial/" target="_blank">TypeScript Express tutorial Archives - Marcin Wanago Blog - JavaScript, both frontend and backend</a>
 - <a href="https://www.digitalocean.com/community/tutorials/how-to-secure-node-js-applications-with-a-content-security-policy" target="_blank">How To Secure Node.js Applications with a Content Security Policy | DigitalOcean</a>
+- <a href="https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/" target="_blank">Anatomy of an HTTP Transaction | Node.js</a>
+- <a href="https://github.com/goldbergyoni/nodebestpractices#readme" target="_blank">goldbergyoni/nodebestpractices: The Node.js best practices list (December 2020)</a>
 
 ## security
 
