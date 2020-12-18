@@ -29,6 +29,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -170,6 +171,7 @@ key: page-awesome-links
 - <a href="https://floating-point-gui.de/" target="_blank">The Floating-Point Guide - What Every Programmer Should Know About Floating-Point Arithmetic</a>
 - <a href="https://www.researchgate.net/figure/IBM-System-Science-Institute-Relative-Cost-of-Fixing-Defects_fig1_255965523" target="_blank">IBM System Science Institute Relative Cost of Fixing Defects  | Download Scientific Diagram</a>
 - <a href="https://refactoring.guru/design-patterns/" target="_blank">Design Patterns</a>
+- <a href="https://thesephist.com/posts/focus/" target="_blank">How to find focus | thesephist.com</a>
 
 ## blockchain
 
