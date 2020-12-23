@@ -30,6 +30,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -272,6 +273,7 @@ key: page-awesome-links
 - <a href="https://www.calnewport.com/blog/" target="_blank">Study Hacks - Decoding Patterns of Success - Cal Newport</a>
 - <a href="https://www.calnewport.com/blog/2008/04/07/monday-master-class-how-to-reduce-stress-and-get-more-done-by-building-an-autopilot-schedule/" target="_blank">Monday Master Class: How to Reduce Stress and Get More Done By Building an Autopilot Schedule - Study Hacks - Cal Newport</a>
 - <a href="https://www.swyx.io/learn-in-private/" target="_blank">How To Learn In Private | swyx.io</a>
+- <a href="https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/" target="_blank">Milan Cvitkovic</a>
 
 ## various
 
