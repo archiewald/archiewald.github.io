@@ -33,6 +33,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -294,3 +295,4 @@ key: page-awesome-links
 
 - <a href="https://blog.cleancoder.com/uncle-bob/2014/05/10/WhenToMock.html" target="_blank">Clean Coder Blog- when to mock</a>
 - <a href="https://martinfowler.com/articles/mocksArentStubs.html#ClassicalAndMockistTesting" target="_blank">Mocks Aren't Stubs</a>
+- <a href="https://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html" target="_blank">Clean Coder Blog</a>
