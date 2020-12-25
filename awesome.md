@@ -37,6 +37,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -283,7 +284,7 @@ key: page-awesome-links
 - <a href="https://www.swyx.io/learn-in-private/" target="_blank">How To Learn In Private | swyx.io</a>
 - <a href="https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/" target="_blank">Milan Cvitkovic</a>
 - <a href="https://www.gwern.net/DNB-FAQ#" target="_blank">Dual N-Back FAQ · Gwern.net</a>
-- <a href="http://www.paulgraham.com/articles.html" target="_blank">Essays</a>
+- <a href="undefined" target="_blank">New folder</a>
 
 ## various
 
@@ -302,3 +303,8 @@ key: page-awesome-links
 - <a href="https://blog.cleancoder.com/uncle-bob/2014/05/10/WhenToMock.html" target="_blank">Clean Coder Blog- when to mock</a>
 - <a href="https://martinfowler.com/articles/mocksArentStubs.html#ClassicalAndMockistTesting" target="_blank">Mocks Aren't Stubs</a>
 - <a href="https://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html" target="_blank">Clean Coder Blog</a>
+
+## blogs
+
+- <a href="http://www.paulgraham.com/articles.html" target="_blank">Paul Graham Essays</a>
+- <a href="https://www.gwern.net/index" target="_blank">Essays · Gwern.net</a>
