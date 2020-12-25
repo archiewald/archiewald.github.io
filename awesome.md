@@ -35,6 +35,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -178,6 +179,7 @@ key: page-awesome-links
 - <a href="https://refactoring.guru/design-patterns/" target="_blank">Design Patterns</a>
 - <a href="https://thesephist.com/posts/focus/" target="_blank">How to find focus | thesephist.com</a>
 - <a href="https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html" target="_blank">Clean Coder Blog</a>
+- <a href="https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html" target="_blank">Clean Coder Blog</a>
 
 ## blockchain
 
@@ -297,4 +299,3 @@ key: page-awesome-links
 - <a href="https://blog.cleancoder.com/uncle-bob/2014/05/10/WhenToMock.html" target="_blank">Clean Coder Blog- when to mock</a>
 - <a href="https://martinfowler.com/articles/mocksArentStubs.html#ClassicalAndMockistTesting" target="_blank">Mocks Aren't Stubs</a>
 - <a href="https://blog.cleancoder.com/uncle-bob/2016/03/19/GivingUpOnTDD.html" target="_blank">Clean Coder Blog</a>
-- <a href="https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html" target="_blank">Clean Coder Blog</a>
