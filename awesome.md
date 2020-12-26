@@ -38,6 +38,7 @@ key: page-awesome-links
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -308,3 +309,4 @@ key: page-awesome-links
 
 - <a href="http://www.paulgraham.com/articles.html" target="_blank">Paul Graham Essays</a>
 - <a href="https://www.gwern.net/index" target="_blank">Essays · Gwern.net</a>
+- <a href="http://www.paulgraham.com/ds.html" target="_blank">Do Things that Don't Scale</a>
