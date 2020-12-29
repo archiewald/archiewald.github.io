@@ -2,43 +2,9 @@
 layout: article
 titles: Awesome links
 key: page-awesome-links
+aside:
+  toc: true
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- awesome-links-feed -->
 ## javascript

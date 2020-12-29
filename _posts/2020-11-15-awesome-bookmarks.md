@@ -69,7 +69,7 @@ function sendAwesomeBookmarks() {
 
 ## How to handle git operations in a node app
 
-I tried some git specific node libraries like [nodegit](https://github.com/nodegit/nodegit) and it was a hard experience. I felt like I used an overcomplicated tool for basic git operations, whereas you can simply run a shell command from your node script with built-in `child_process` library.
+I tried some git specific node libraries like [nodegit](https://github.com/nodegit/nodegit) and it was a hard experience. I felt like I used an overcomplicated tool for basic git operations, whereas you can simply run a shell command from your node script with a built-in `child_process` library.
 
 ```js
 const util = require("util");
