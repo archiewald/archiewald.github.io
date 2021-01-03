@@ -1,5 +1,5 @@
 ---
-title: How do I share my bookmarks with the web
+title: How do I share my bookmarks on the web
 key: awesome-bookmarks
 tags: tools node javascript git
 image: /assets/images/6-bookmarks.png
