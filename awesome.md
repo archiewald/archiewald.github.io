@@ -6,6 +6,7 @@ aside:
   toc: true
 ---
 
+Whenever I put something new in my bookmarks `awesome` folder, this page is being updated. More on that in [How do I share my bookmarks on the web](https://www.kozubek.dev/2020/11/15/awesome-bookmarks.html)
 
 <!-- awesome-links-feed -->
 ## javascript
