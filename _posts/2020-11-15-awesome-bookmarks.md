@@ -8,6 +8,8 @@ cover: /assets/images/6-bookmarks.png
 
 Whenever I read something valuable around software engineering I save it in categorized browser bookmarks. You can find them in the Awesome section on this website as well. In this article I described how they are kept in sync.
 
+Find the repo [here](https://github.com/archiewald/awesome-links)
+
 <!--more-->
 
 <figure>
