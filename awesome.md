@@ -11,6 +11,7 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -268,6 +269,7 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 - <a href="https://debugger.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2" target="_blank">Why Is Apple’s M1 Chip So Fast?. Real world exper…</a>
 - <a href="https://www.singhkays.com/blog/apple-silicon-m1-black-magic/" target="_blank">Apple Silicon M1: Black. Magic. Fuckery. - Kay's…</a>
 - <a href="https://kentcdodds.com/uses/" target="_blank">Uses | Kent C. Dodds</a>
+- <a href="https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/" target="_blank">What Silicon Valley "Gets" about Software Enginee…</a>
 
 ## Db
 
