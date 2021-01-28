@@ -35,6 +35,7 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -237,6 +238,7 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 - <a href="http://www.paulgraham.com/startupideas.html#f3n" target="_blank">How to Get Startup Ideas</a>
 - <a href="http://www.paulgraham.com/ds.html" target="_blank">Do Things that Don't Scale</a>
 - <a href="https://www.bannerbear.com/journey-to-10k-mrr/" target="_blank">Here's How I Bootstrapped a SaaS to 10k MRR - Ban…</a>
+- <a href="https://us-east-1.signin.aws.amazon.com/oauth?SignatureVersion=4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMOATPLHVSJ563XQ&X-Amz-Date=2021-01-28T09%3A05%3A04.866Z&X-Amz-Signature=f2b457854cdb94b68678d7b68f8a570ca4f92a1a7ec05be6fc12124e2abad603&X-Amz-SignedHeaders=host&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&code_challenge=B6U5oERc0ru5NdY2T2X2NhqF38-tDjLlsIOo5QqQoko&code_challenge_method=SHA-256&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&response_type=code&state=hashArgs%23" target="_blank">Amazon Web Services Sign-In</a>
 
 ## career
 
