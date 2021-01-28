@@ -34,6 +34,7 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -235,6 +236,7 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 - <a href="https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8?fbclid=IwAR2XEvkuL-35agvKFVkEuS7K6GKJn1VIrpDICdmjugsHDoYoB3HajiEZamE" target="_blank">How to build a SaaS with $0 – Hacker Noon</a>
 - <a href="http://www.paulgraham.com/startupideas.html#f3n" target="_blank">How to Get Startup Ideas</a>
 - <a href="http://www.paulgraham.com/ds.html" target="_blank">Do Things that Don't Scale</a>
+- <a href="https://www.bannerbear.com/journey-to-10k-mrr/" target="_blank">Here's How I Bootstrapped a SaaS to 10k MRR - Ban…</a>
 
 ## career
 
