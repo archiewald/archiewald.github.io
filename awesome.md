@@ -37,6 +37,7 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -296,6 +297,8 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 - <a href="https://www.singhkays.com/blog/apple-silicon-m1-black-magic/" target="_blank">Apple Silicon M1: Black. Magic. Fuckery. - Kay's…</a>
 - <a href="https://kentcdodds.com/uses/" target="_blank">Uses | Kent C. Dodds</a>
 - <a href="https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/" target="_blank">What Silicon Valley "Gets" about Software Enginee…</a>
+- <a href="https://darkpatterns.org/index.html" target="_blank">Dark Patterns</a>
+- <a href="https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers/" target="_blank">The Best Tech Podcasts for Software Developers in 2021</a>
 
 ## Db
 
