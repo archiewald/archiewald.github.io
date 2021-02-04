@@ -44,6 +44,7 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -292,7 +293,6 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 - <a href="https://www.swyx.io/learn-in-private/" target="_blank">How To Learn In Private | swyx.io</a>
 - <a href="https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/" target="_blank">Milan Cvitkovic</a>
 - <a href="https://www.gwern.net/DNB-FAQ#" target="_blank">Dual N-Back FAQ · Gwern.net</a>
-- <a href="undefined" target="_blank">New folder</a>
 - <a href="https://www.freecodecamp.org/news/best-tech-podcasts-for-software-developers/" target="_blank">The Best Tech Podcasts for Software Developers in 2021</a>
 
 ## various
