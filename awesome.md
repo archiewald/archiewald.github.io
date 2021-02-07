@@ -47,6 +47,7 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -323,3 +324,4 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 - <a href="http://www.paulgraham.com/articles.html" target="_blank">Paul Graham Essays</a>
 - <a href="https://blog.cleancoder.com/" target="_blank">Clean Coder Blog</a>
 - <a href="https://www.gwern.net/index" target="_blank">Essays · Gwern.net</a>
+- <a href="https://informatykzakladowy.pl/" target="_blank">Informatyk Zakładowy -</a>
