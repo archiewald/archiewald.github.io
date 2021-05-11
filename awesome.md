@@ -55,6 +55,7 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 
 
 
+
 <!-- awesome-links-feed -->
 ## javascript
 
@@ -199,6 +200,7 @@ Whenever I put something new in my bookmarks `awesome` folder, this page is bein
 - <a href="https://thesephist.com/posts/focus/" target="_blank">How to find focus | thesephist.com</a>
 - <a href="https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html" target="_blank">Clean Coder Blog</a>
 - <a href="https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html" target="_blank">Clean Coder Blog</a>
+- <a href="https://martinfowler.com/articles/on-pair-programming.html" target="_blank">On Pair Programming</a>
 
 ## blockchain
 
